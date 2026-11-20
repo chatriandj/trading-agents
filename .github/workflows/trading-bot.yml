@@ -1,0 +1,52 @@
+name: Trading bot
+
+# Two runs each weekday cover the whole trading session (GitHub caps each job at 6 hours).
+# Times are UTC: 13:10 UTC is before the US open in both summer and winter;
+# the second run picks up mid-day and stops by itself after the close.
+on:
+  schedule:
+    - cron: "10 13 * * 1-5"
+    - cron: "0 19 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: trading-bot
+  cancel-in-progress: false
+
+jobs:
+  trade:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run the agents (paper trading)
+        env:
+          APCA_API_KEY_ID: ${{ secrets.APCA_API_KEY_ID }}
+          APCA_API_SECRET_KEY: ${{ secrets.APCA_API_SECRET_KEY }}
+          APCA_API_BASE_URL: https://paper-api.alpaca.markets
+          BUDGET: "10000"
+          MAX_RUNTIME_MIN: "340"
+          DASHBOARD_PATH: docs/index.html
+        run: python main.py --auto
+
+      - name: Save the log and dashboard to the repo
+        if: always()
+        run: |
+          git config user.name "trading-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add logs docs/index.html || true
+          if git diff --cached --quiet; then
+            echo "Nothing new to save."
+          else
+            git commit -m "Bot log $(date -u '+%Y-%m-%d %H:%M') UTC"
+            git pull --rebase --autostash || true
+            git push
+          fi
