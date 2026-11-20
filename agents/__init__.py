@@ -1,0 +1,1 @@
+"""The four trading agents."""
