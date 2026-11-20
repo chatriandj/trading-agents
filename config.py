@@ -20,8 +20,8 @@ def _load_env(path):
 _load_env(os.path.join(HERE, "keys.txt"))
 _load_env(os.path.join(HERE, ".env"))
 
-API_KEY = os.environ.get("APCA_API_KEY_ID", "")
-API_SECRET = os.environ.get("APCA_API_SECRET_KEY", "")
+API_KEY = os.environ.get("APCA_API_KEY_ID", "").strip()  # .strip(): pasted keys often carry a stray newline
+API_SECRET = os.environ.get("APCA_API_SECRET_KEY", "").strip()
 BASE_URL = os.environ.get("APCA_API_BASE_URL", "https://paper-api.alpaca.markets").rstrip("/")
 DATA_URL = "https://data.alpaca.markets"
 DATA_FEED = os.environ.get("DATA_FEED", "iex")  # free plan = iex
