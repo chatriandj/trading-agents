@@ -89,6 +89,23 @@ def to_min(hhmm):
     return h * 60 + m
 
 
+def to_hhmm(minutes):
+    return f"{minutes // 60:02d}:{minutes % 60:02d}"
+
+
+def session_cutoffs(clk):
+    """(flatten time, no-new-trades time) in ET for today's session.
+    Normal days use the settings (15:50 / 15:30). On early-close days (1:00 PM ET,
+    e.g. the day after Thanksgiving and Christmas Eve) both move earlier by the same
+    margin, so positions are never left open after the bell."""
+    flatten_at, no_new_after = config.FLATTEN_AT, config.NO_NEW_TRADES_AFTER
+    if clk.get("is_open") and clk.get("next_close"):
+        close_min = to_min(parse_clock(clk["next_close"])[1])
+        flatten_at = min(flatten_at, to_hhmm(close_min - 10))
+        no_new_after = min(no_new_after, to_hhmm(close_min - 30))
+    return flatten_at, no_new_after
+
+
 def bar_et(b):
     """Bar start as (ET date, ET minute-of-day)."""
     from backtest import et_offset_hours
@@ -177,6 +194,7 @@ def main():
             clk = api.clock()
             day, hhmm, offset = parse_clock(clk["timestamp"])
             now_min = to_min(hhmm)
+            flatten_at, no_new_after = session_cutoffs(clk)
             acct = api.account()
             positions = api.positions()
 
@@ -203,11 +221,11 @@ def main():
             open_iso = f"{day}T09:30:00{offset}"
 
             # End of day: flatten
-            if hhmm >= config.FLATTEN_AT:
+            if hhmm >= flatten_at:
                 if positions or api.open_orders():
                     log("Risk manager: closing all positions before the bell.")
                     api.flatten_all()
-                status = f"{hhmm} ET - done for the day (flattened at {config.FLATTEN_AT})"
+                status = f"{hhmm} ET - done for the day (flattened at {flatten_at})"
                 dashboard.write(status, acct, api.positions(), decisions, alerts, config.BUDGET)
                 time.sleep(config.LOOP_SECONDS)
                 continue
@@ -283,14 +301,14 @@ def main():
                         hist = api.bars([sym], hist_start).get(sym, [])
                         sim = time_machine.simulate(sig["entry"], sig["stop"], sig["target"],
                                                     time_machine.minute_returns(hist),
-                                                    to_min(config.FLATTEN_AT) - now_min)
+                                                    to_min(flatten_at) - now_min)
                         d["time_machine"] = (f"{sim['p_target']:.0%} target / {sim['p_stop']:.0%} stop / "
                                              f"{sim['p_neither']:.0%} open at close (info only)") if sim else "not enough data"
                     except api.AlpacaError as e:
                         d["time_machine"] = f"skipped ({str(e)[:60]})"
 
                     # Agent 4: risk manager (final say)
-                    ok, qty, why = risk.review(sig, acct, positions, open_orders, hhmm)
+                    ok, qty, why = risk.review(sig, acct, positions, open_orders, hhmm, no_new_after)
                     d["risk"] = why
                     if not ok:
                         decisions.append(d); _save(d); log(f"{sym}: blocked by risk manager - {why}")

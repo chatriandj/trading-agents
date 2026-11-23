@@ -1,0 +1,2 @@
+# Two bot runs can save logs at the same time; keep both runs' lines instead of conflicting.
+logs/** merge=union

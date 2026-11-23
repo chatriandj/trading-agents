@@ -24,12 +24,13 @@ class RiskManager:
         max_qty = math.floor(config.BUDGET * config.MAX_POSITION_PCT / 100 / entry)
         return max(0, min(qty, max_qty))
 
-    def review(self, signal, acct, positions, open_orders, et_hhmm):
+    def review(self, signal, acct, positions, open_orders, et_hhmm, no_new_after=None):
         """Returns (approved, qty, reason)."""
+        no_new_after = no_new_after or config.NO_NEW_TRADES_AFTER
         if self.halted or self.check_halt(acct):
             return False, 0, f"daily loss limit hit ({config.DAILY_LOSS_LIMIT_PCT}% of budget)"
-        if et_hhmm >= config.NO_NEW_TRADES_AFTER:
-            return False, 0, f"no new trades after {config.NO_NEW_TRADES_AFTER} ET"
+        if et_hhmm >= no_new_after:
+            return False, 0, f"no new trades after {no_new_after} ET"
         if self.trades_today >= config.MAX_TRADES_PER_DAY:
             return False, 0, f"max {config.MAX_TRADES_PER_DAY} trades per day reached"
         held = {p["symbol"] for p in positions} | {o["symbol"] for o in open_orders}
