@@ -729,3 +729,761 @@
 2026-11-23 [21:09:34] Connected (strategy v2: stocks in play). Paper equity 100,123.65 | bot budget 10,000 | $50 risk per trade
 2026-11-23 [21:09:35] Market closed. Next open: 2026-11-24 09:30 ET
 2026-11-23 [21:09:35] No more trading today. Shutting down until the next scheduled start.
+2026-11-24 [14:28:17] Connected (strategy v2: stocks in play). Paper equity 100,123.40 | bot budget 10,000 | $50 risk per trade
+2026-11-24 [14:28:17] Market closed. Next open: 2026-11-24 09:30 ET
+2026-11-24 [14:30:01] NEWS [ ] META: Meta Abandons 2030 Net-Zero Emissions Goal
+2026-11-24 [14:30:01] NEWS [ ] AMD: BNP Paribas Adjusts Price Target for AMD
+2026-11-24 [14:30:01] NEWS [ ] AAPL: Apple Announces Fifth Season of 'Ted Lasso'
+2026-11-24 [14:30:01] NEWS [-] COIN: California Court Dismisses UST Class-Action Lawsuit Against Coinbase
+2026-11-24 [14:30:01] NEWS [ ] COIN: Goldman Sachs Adjusts Price Target on Coinbase Global
+2026-11-24 [14:30:01] NEWS [ ] AMD: Bernstein Initiates Coverage on AMD with Buy Rating
+2026-11-24 [14:30:01] NEWS [ ] TSLA: UBS Adjusts Price Target on Tesla to $430
+2026-11-24 [14:30:01] NEWS [ ] SHOP: Emersoft Partners with MVB to Bring Direct Publisher Ordering via Pubeasy to Independent Bookstores 
+2026-11-24 [14:30:01] NEWS [ ] AMZN: AWS CEO Matt Garman Advocates for Architectural Containment in AI Security
+2026-11-24 [14:30:01] NEWS [ ] META: Analysts Adjust Price Targets for Meta Platforms
+2026-11-24 [14:30:01] NEWS [+] META: Meta Launches Muse AI in the UK
+2026-11-24 [14:30:01] NEWS [ ] INTC: BNP Paribas Adjusts Price Target on Intel to $60 From $70
+2026-11-24 [14:30:01] NEWS [-] MU: BNP Paribas Downgrades Micron Technology to Neutral
+2026-11-24 [14:30:01] NEWS [ ] AMD: TrendForce Reports Growing Demand for AMD Helios AI Server Systems
+2026-11-24 [14:30:01] NEWS [ ] AMZN: Amazon Web Services Collaborates with Great Ormond Street Hospital on Agentic AI Programme
+2026-11-24 [14:30:01] NEWS [+] MSFT: Atos and Microsoft Extend Partnership for Digital Sovereignty
+2026-11-24 [14:30:01] NEWS [ ] PLTR: Palantir Technologies Inc. Receives Zero Score in 2026 CPA-Zicklin Index
+2026-11-24 [14:30:01] NEWS [ ] AAPL: Apple Plans Return of (PRODUCT)RED Lineup
+2026-11-24 [14:30:01] NEWS [+] UBER: Uber Pilots "Record My Ride" Feature in Select U.S. Cities
+2026-11-24 [14:30:01] NEWS [ ] AAPL: Apple TV Withdraws from FIFA World Cup Bidding
+2026-11-24 [14:30:01] NEWS [ ] INTC: Intel Announces Executive Participation in Upcoming Investor Conferences
+2026-11-24 [14:30:01] NEWS [-] AMZN: Jury Reaches Verdict in Amazon's Lawsuit Against Northstar Commercial Partners
+2026-11-24 [14:30:01] NEWS [+] AMZN: Amazon to Acquire AI Startup Decart
+2026-11-24 [14:30:01] NEWS [ ] SOFI: TGL Presented by SoFi and Full Swing Launch Virtual Competition Holes
+2026-11-24 [14:30:01] NEWS [+] AMZN: Amazon Acquires AI Startup Decart
+2026-11-24 [14:30:01] NEWS [ ] TSLA: Tesla Releases New FSD v15 Self-Driving Software
+2026-11-24 [14:30:01] NEWS [ ] CRM: Citigroup Adjusts Price Target on Salesforce
+2026-11-24 [14:30:01] NEWS [ ] MSFT: V2X Expands Collaboration with Microsoft to Advance AI-Powered Mission Operations
+2026-11-24 [14:30:01] NEWS [ ] SHOP: OnTrac Launches Tracking Integration with Shopify
+2026-11-24 [14:30:01] NEWS [ ] CRM: Salesforce Integrates Net Zero Cloud with CDP
+2026-11-24 [14:30:01] NEWS [ ] COIN: Coinbase Ventures Participates in $11.5 Million Seed Funding for Q.security
+2026-11-24 [14:30:01] NEWS [ ] NVDA: NVIDIA Reinstates Jensen Huang as President and CEO
+2026-11-24 [14:30:01] NEWS [ ] LCID: Seaport Initiates Lucid at Sell With $1 Price Target
+2026-11-24 [14:30:01] NEWS [+] BA: Mizuho Securities Initiates Coverage on Boeing with Outperform Rating
+2026-11-24 [14:30:01] NEWS [ ] BA: Boeing Secures Order for 50 737-8 Aircraft from China Southern Airlines Unit
+2026-11-24 [14:30:01] NEWS [+] DIS: Disney Secures Bundesliga Highlight Rights in Sublicensing Deal with RTL
+2026-11-24 [14:30:01] NEWS [ ] JPM: JPMorgan Chase Increases Stake in Intertek Group PLC
+2026-11-24 [14:30:01] NEWS [ ] JPM: J.P. Morgan Asset Management Announces November 2026 ETF Distributions
+2026-11-24 [14:30:01] NEWS [ ] GM: General Motors in Talks with Pentagon to Support Military Drone Production
+2026-11-24 [14:30:01] NEWS [ ] HOOD: Goldman Sachs Adjusts Price Target on Robinhood Markets to $114 From $115
+2026-11-24 [14:30:01] NEWS [ ] BAC: Bank of America Releases 2027 Market Outlook on Potential Bull and Bear Surprises
+2026-11-24 [14:30:01] NEWS [+] WMT: Walmart Updates Advertising and Operational Policies for AI Shopping Agents
+2026-11-24 [14:30:01] NEWS [ ] JPM: JPMorgan Chase Completes First Legally Binding Digital Gold Transactions
+2026-11-24 [14:30:01] NEWS [ ] HOOD: Robinhood Included in Launch of OKXICE Tokenized Securities Venue
+2026-11-24 [14:30:01] NEWS [+] BA: Boeing Awarded $197.3 Million US Special Operations Aircraft Contract
+2026-11-24 [14:30:01] NEWS [ ] WMT: Walmart Insider Executes Share Sale
+2026-11-24 [14:30:01] NEWS [ ] JPM: J.P. Morgan Asset Management Announces Listing Transfer for JPMorgan Active Bond ETF
+2026-11-24 [14:30:01] NEWS [ ] PYPL: PayPal Implements New Terms for Agentic Commerce Payment Services
+2026-11-24 [14:30:01] NEWS [+] NKE: Nike and Michigan State Announce Eight-Year Partnership Extension
+2026-11-24 [14:30:01] NEWS [+] DIS: Disney and NFL Partner with IMAX for Super Bowl LXI Theatrical Broadcast
+2026-11-24 [14:30:01] NEWS [ ] WMT: Walmart Hosts Global E-commerce Hardlines Category Exchange
+2026-11-24 [14:30:01] NEWS [ ] COST: Swical Energy® Extra Strength Launches at Costco Quebec
+2026-11-24 [14:30:01] NEWS [ ] WMT: Guggenheim Adjusts Price Target on Walmart
+2026-11-24 [14:30:01] NEWS [ ] F: Ford Motor Company Announces Minority Investment in Revolution Space
+2026-11-24 [14:30:01] NEWS [ ] XOM: ExxonMobil Announces Pricing Terms and Results of Cash Tender Offers
+2026-11-24 [14:30:01] NEWS [ ] COST: MY ARCADE Launches ATARI 55th Anniversary Edition GAMESTATION GO at Costco
+2026-11-24 [14:30:01] NEWS [ ] JPM: J.P. Morgan Private Bank Releases 2027 Global Investment Outlook
+2026-11-24 [14:30:01] NEWS [ ] JPM: J.P. Morgan Asset Management (Canada) Announces Estimated Annual Distributions
+2026-11-24 [14:30:01] NEWS [ ] F: Envoy and Many Mansions Introduce Ford Mustang Mach-E Vehicles at Central Terrace
+2026-11-24 [14:30:04] Scanner: loaded 10-day opening volume for 40 stocks.
+2026-11-24 [14:30:05] 09:30 ET | in play: none | market filter off (no SPY data) | trades today 0/2
+2026-11-24 [14:30:36] 09:30 ET | in play: none | market filter off (no SPY data) | trades today 0/2
+2026-11-24 [14:31:06] 09:31 ET | in play: none | market filter off (no SPY data) | trades today 0/2
+2026-11-24 [14:31:36] 09:31 ET | in play: none | market filter off (no SPY data) | trades today 0/2
+2026-11-24 [14:32:06] NEWS [ ] AAPL: J.P. Morgan Maintains Buy Rating and $355 Price Target for Apple
+2026-11-24 [14:32:06] NEWS [ ] CRM: Salesforce Joins Industry Backing for Open Standard in AI Agent Context Sharing
+2026-11-24 [14:32:06] NEWS [ ] UBER: Uber, Lucid, and Nuro Begin Driverless Robotaxi Testing in San Francisco Bay Area
+2026-11-24 [14:32:06] NEWS [ ] DIS: The Walt Disney Studios Partners with Kaleidescape
+2026-11-24 [14:32:06] NEWS [+] PYPL: PayPal Partners with Mukuru to Expand Digital Financial Services in Botswana
+2026-11-24 [14:32:06] 09:32 ET | in play: none | market filter off (no SPY data) | trades today 0/2
+2026-11-24 [14:32:36] 09:32 ET | in play: none | market filter off (no SPY data) | trades today 0/2
+2026-11-24 [14:33:06] NEWS [ ] AVGO: BNP Paribas Adjusts Broadcom Price Target
+2026-11-24 [14:33:06] NEWS [ ] TSLA: Seaport Initiates Coverage of Tesla with Buy Rating
+2026-11-24 [14:33:06] NEWS [ ] COIN: Form3 Partners with Coinbase Infrastructure to Enable Stablecoin Payments
+2026-11-24 [14:33:06] NEWS [ ] RIVN: Seaport Initiates Rivian Automotive at Buy With $18 Price Target
+2026-11-24 [14:33:06] 09:33 ET | in play: none | market filter off (no SPY data) | trades today 0/2
+2026-11-24 [14:33:36] 09:33 ET | in play: none | market filter off (no SPY data) | trades today 0/2
+2026-11-24 [14:34:07] 09:34 ET | in play: none | market filter off (no SPY data) | trades today 0/2
+2026-11-24 [14:34:37] 09:34 ET | in play: none | market filter off (no SPY data) | trades today 0/2
+2026-11-24 [14:35:07] Scanner: today's stocks in play: none (no stock hit 2.5x)
+2026-11-24 [14:35:07] 09:35 ET | in play: none | market filter off (SPY 714.35 vs open 715.30 / VWAP 713.98) | trades today 0/2
+2026-11-24 [14:35:37] 09:35 ET | in play: none | market filter off (SPY 714.35 vs open 715.30 / VWAP 713.98) | trades today 0/2
+2026-11-24 [14:36:08] 09:36 ET | in play: none | market filter off (SPY 714.35 vs open 715.30 / VWAP 713.98) | trades today 0/2
+2026-11-24 [14:36:38] 09:36 ET | in play: none | market filter off (SPY 714.35 vs open 715.30 / VWAP 713.98) | trades today 0/2
+2026-11-24 [14:37:08] 09:37 ET | in play: none | market filter off (SPY 714.35 vs open 715.30 / VWAP 713.98) | trades today 0/2
+2026-11-24 [14:37:38] 09:37 ET | in play: none | market filter off (SPY 714.35 vs open 715.30 / VWAP 713.98) | trades today 0/2
+2026-11-24 [14:38:08] 09:38 ET | in play: none | market filter off (SPY 714.35 vs open 715.30 / VWAP 713.98) | trades today 0/2
+2026-11-24 [14:38:38] 09:38 ET | in play: none | market filter off (SPY 714.35 vs open 715.30 / VWAP 713.98) | trades today 0/2
+2026-11-24 [14:39:08] 09:39 ET | in play: none | market filter off (SPY 714.35 vs open 715.30 / VWAP 713.98) | trades today 0/2
+2026-11-24 [14:39:39] 09:39 ET | in play: none | market filter off (SPY 714.35 vs open 715.30 / VWAP 713.98) | trades today 0/2
+2026-11-24 [14:40:09] 09:40 ET | in play: none | market filter off (SPY 714.52 vs open 715.30 / VWAP 714.11) | trades today 0/2
+2026-11-24 [14:40:39] 09:40 ET | in play: none | market filter off (SPY 714.52 vs open 715.30 / VWAP 714.11) | trades today 0/2
+2026-11-24 [14:41:09] 09:41 ET | in play: none | market filter off (SPY 714.52 vs open 715.30 / VWAP 714.11) | trades today 0/2
+2026-11-24 [14:41:39] 09:41 ET | in play: none | market filter off (SPY 714.52 vs open 715.30 / VWAP 714.11) | trades today 0/2
+2026-11-24 [14:42:09] 09:42 ET | in play: none | market filter off (SPY 714.52 vs open 715.30 / VWAP 714.11) | trades today 0/2
+2026-11-24 [14:42:40] 09:42 ET | in play: none | market filter off (SPY 714.52 vs open 715.30 / VWAP 714.11) | trades today 0/2
+2026-11-24 [14:43:10] 09:43 ET | in play: none | market filter off (SPY 714.52 vs open 715.30 / VWAP 714.11) | trades today 0/2
+2026-11-24 [14:43:40] 09:43 ET | in play: none | market filter off (SPY 714.52 vs open 715.30 / VWAP 714.11) | trades today 0/2
+2026-11-24 [14:44:10] 09:44 ET | in play: none | market filter off (SPY 714.52 vs open 715.30 / VWAP 714.11) | trades today 0/2
+2026-11-24 [14:44:40] 09:44 ET | in play: none | market filter off (SPY 714.52 vs open 715.30 / VWAP 714.11) | trades today 0/2
+2026-11-24 [14:45:11] 09:45 ET | in play: none | market filter ON (SPY 717.46 vs open 715.30 / VWAP 714.69) | trades today 0/2
+2026-11-24 [14:45:41] 09:45 ET | in play: none | market filter ON (SPY 717.46 vs open 715.30 / VWAP 714.69) | trades today 0/2
+2026-11-24 [14:46:11] 09:46 ET | in play: none | market filter ON (SPY 717.46 vs open 715.30 / VWAP 714.69) | trades today 0/2
+2026-11-24 [14:46:41] 09:46 ET | in play: none | market filter ON (SPY 717.46 vs open 715.30 / VWAP 714.69) | trades today 0/2
+2026-11-24 [14:47:11] 09:47 ET | in play: none | market filter ON (SPY 717.46 vs open 715.30 / VWAP 714.69) | trades today 0/2
+2026-11-24 [14:47:41] 09:47 ET | in play: none | market filter ON (SPY 717.46 vs open 715.30 / VWAP 714.69) | trades today 0/2
+2026-11-24 [14:48:12] 09:48 ET | in play: none | market filter ON (SPY 717.46 vs open 715.30 / VWAP 714.69) | trades today 0/2
+2026-11-24 [14:48:42] 09:48 ET | in play: none | market filter ON (SPY 717.46 vs open 715.30 / VWAP 714.69) | trades today 0/2
+2026-11-24 [14:49:12] 09:49 ET | in play: none | market filter ON (SPY 717.46 vs open 715.30 / VWAP 714.69) | trades today 0/2
+2026-11-24 [14:49:42] 09:49 ET | in play: none | market filter ON (SPY 717.46 vs open 715.30 / VWAP 714.69) | trades today 0/2
+2026-11-24 [14:50:12] 09:50 ET | in play: none | market filter ON (SPY 718.05 vs open 715.30 / VWAP 715.84) | trades today 0/2
+2026-11-24 [14:50:42] 09:50 ET | in play: none | market filter ON (SPY 718.05 vs open 715.30 / VWAP 715.84) | trades today 0/2
+2026-11-24 [14:51:13] 09:51 ET | in play: none | market filter ON (SPY 718.05 vs open 715.30 / VWAP 715.84) | trades today 0/2
+2026-11-24 [14:51:43] 09:51 ET | in play: none | market filter ON (SPY 718.05 vs open 715.30 / VWAP 715.84) | trades today 0/2
+2026-11-24 [14:52:13] 09:52 ET | in play: none | market filter ON (SPY 718.05 vs open 715.30 / VWAP 715.84) | trades today 0/2
+2026-11-24 [14:52:43] 09:52 ET | in play: none | market filter ON (SPY 718.05 vs open 715.30 / VWAP 715.84) | trades today 0/2
+2026-11-24 [14:53:13] 09:53 ET | in play: none | market filter ON (SPY 718.05 vs open 715.30 / VWAP 715.84) | trades today 0/2
+2026-11-24 [14:53:43] 09:53 ET | in play: none | market filter ON (SPY 718.05 vs open 715.30 / VWAP 715.84) | trades today 0/2
+2026-11-24 [14:54:13] 09:54 ET | in play: none | market filter ON (SPY 718.05 vs open 715.30 / VWAP 715.84) | trades today 0/2
+2026-11-24 [14:54:44] 09:54 ET | in play: none | market filter ON (SPY 718.05 vs open 715.30 / VWAP 715.84) | trades today 0/2
+2026-11-24 [14:55:14] 09:55 ET | in play: none | market filter ON (SPY 718.89 vs open 715.30 / VWAP 716.42) | trades today 0/2
+2026-11-24 [14:55:44] 09:55 ET | in play: none | market filter ON (SPY 718.89 vs open 715.30 / VWAP 716.42) | trades today 0/2
+2026-11-24 [14:56:14] 09:56 ET | in play: none | market filter ON (SPY 718.89 vs open 715.30 / VWAP 716.42) | trades today 0/2
+2026-11-24 [14:56:44] 09:56 ET | in play: none | market filter ON (SPY 718.89 vs open 715.30 / VWAP 716.42) | trades today 0/2
+2026-11-24 [14:57:14] 09:57 ET | in play: none | market filter ON (SPY 718.89 vs open 715.30 / VWAP 716.42) | trades today 0/2
+2026-11-24 [14:57:45] 09:57 ET | in play: none | market filter ON (SPY 718.89 vs open 715.30 / VWAP 716.42) | trades today 0/2
+2026-11-24 [14:58:15] 09:58 ET | in play: none | market filter ON (SPY 718.89 vs open 715.30 / VWAP 716.42) | trades today 0/2
+2026-11-24 [14:58:45] 09:58 ET | in play: none | market filter ON (SPY 718.89 vs open 715.30 / VWAP 716.42) | trades today 0/2
+2026-11-24 [14:59:15] 09:59 ET | in play: none | market filter ON (SPY 718.89 vs open 715.30 / VWAP 716.42) | trades today 0/2
+2026-11-24 [14:59:45] 09:59 ET | in play: none | market filter ON (SPY 718.89 vs open 715.30 / VWAP 716.42) | trades today 0/2
+2026-11-24 [15:00:15] 10:00 ET | in play: none | market filter ON (SPY 719.85 vs open 715.30 / VWAP 716.75) | trades today 0/2
+2026-11-24 [15:00:46] 10:00 ET | in play: none | market filter ON (SPY 719.85 vs open 715.30 / VWAP 716.75) | trades today 0/2
+2026-11-24 [15:01:16] 10:01 ET | in play: none | market filter ON (SPY 719.85 vs open 715.30 / VWAP 716.75) | trades today 0/2
+2026-11-24 [15:01:46] 10:01 ET | in play: none | market filter ON (SPY 719.85 vs open 715.30 / VWAP 716.75) | trades today 0/2
+2026-11-24 [15:02:16] 10:02 ET | in play: none | market filter ON (SPY 719.85 vs open 715.30 / VWAP 716.75) | trades today 0/2
+2026-11-24 [15:02:46] 10:02 ET | in play: none | market filter ON (SPY 719.85 vs open 715.30 / VWAP 716.75) | trades today 0/2
+2026-11-24 [15:03:16] 10:03 ET | in play: none | market filter ON (SPY 719.85 vs open 715.30 / VWAP 716.75) | trades today 0/2
+2026-11-24 [15:03:47] 10:03 ET | in play: none | market filter ON (SPY 719.85 vs open 715.30 / VWAP 716.75) | trades today 0/2
+2026-11-24 [15:04:17] 10:04 ET | in play: none | market filter ON (SPY 719.85 vs open 715.30 / VWAP 716.75) | trades today 0/2
+2026-11-24 [15:04:47] 10:04 ET | in play: none | market filter ON (SPY 719.85 vs open 715.30 / VWAP 716.75) | trades today 0/2
+2026-11-24 [15:05:17] 10:05 ET | in play: none | market filter ON (SPY 720.35 vs open 715.30 / VWAP 717.00) | trades today 0/2
+2026-11-24 [15:05:47] 10:05 ET | in play: none | market filter ON (SPY 720.35 vs open 715.30 / VWAP 717.00) | trades today 0/2
+2026-11-24 [15:06:17] 10:06 ET | in play: none | market filter ON (SPY 720.35 vs open 715.30 / VWAP 717.00) | trades today 0/2
+2026-11-24 [15:06:48] 10:06 ET | in play: none | market filter ON (SPY 720.35 vs open 715.30 / VWAP 717.00) | trades today 0/2
+2026-11-24 [15:07:18] 10:07 ET | in play: none | market filter ON (SPY 720.35 vs open 715.30 / VWAP 717.00) | trades today 0/2
+2026-11-24 [15:07:48] 10:07 ET | in play: none | market filter ON (SPY 720.35 vs open 715.30 / VWAP 717.00) | trades today 0/2
+2026-11-24 [15:08:18] 10:08 ET | in play: none | market filter ON (SPY 720.35 vs open 715.30 / VWAP 717.00) | trades today 0/2
+2026-11-24 [15:08:48] 10:08 ET | in play: none | market filter ON (SPY 720.35 vs open 715.30 / VWAP 717.00) | trades today 0/2
+2026-11-24 [15:09:18] 10:09 ET | in play: none | market filter ON (SPY 720.35 vs open 715.30 / VWAP 717.00) | trades today 0/2
+2026-11-24 [15:09:49] 10:09 ET | in play: none | market filter ON (SPY 720.35 vs open 715.30 / VWAP 717.00) | trades today 0/2
+2026-11-24 [15:10:19] 10:10 ET | in play: none | market filter ON (SPY 718.95 vs open 715.30 / VWAP 717.12) | trades today 0/2
+2026-11-24 [15:10:49] 10:10 ET | in play: none | market filter ON (SPY 718.95 vs open 715.30 / VWAP 717.12) | trades today 0/2
+2026-11-24 [15:11:19] 10:11 ET | in play: none | market filter ON (SPY 718.95 vs open 715.30 / VWAP 717.12) | trades today 0/2
+2026-11-24 [15:11:49] 10:11 ET | in play: none | market filter ON (SPY 718.95 vs open 715.30 / VWAP 717.12) | trades today 0/2
+2026-11-24 [15:12:19] 10:12 ET | in play: none | market filter ON (SPY 718.95 vs open 715.30 / VWAP 717.12) | trades today 0/2
+2026-11-24 [15:12:50] 10:12 ET | in play: none | market filter ON (SPY 718.95 vs open 715.30 / VWAP 717.12) | trades today 0/2
+2026-11-24 [15:13:20] 10:13 ET | in play: none | market filter ON (SPY 718.95 vs open 715.30 / VWAP 717.12) | trades today 0/2
+2026-11-24 [15:13:50] 10:13 ET | in play: none | market filter ON (SPY 718.95 vs open 715.30 / VWAP 717.12) | trades today 0/2
+2026-11-24 [15:14:20] 10:14 ET | in play: none | market filter ON (SPY 718.95 vs open 715.30 / VWAP 717.12) | trades today 0/2
+2026-11-24 [15:14:50] 10:14 ET | in play: none | market filter ON (SPY 718.95 vs open 715.30 / VWAP 717.12) | trades today 0/2
+2026-11-24 [15:15:20] 10:15 ET | in play: none | market filter ON (SPY 719.61 vs open 715.30 / VWAP 717.29) | trades today 0/2
+2026-11-24 [15:15:51] 10:15 ET | in play: none | market filter ON (SPY 719.61 vs open 715.30 / VWAP 717.29) | trades today 0/2
+2026-11-24 [15:16:21] 10:16 ET | in play: none | market filter ON (SPY 719.61 vs open 715.30 / VWAP 717.29) | trades today 0/2
+2026-11-24 [15:16:51] 10:16 ET | in play: none | market filter ON (SPY 719.61 vs open 715.30 / VWAP 717.29) | trades today 0/2
+2026-11-24 [15:17:21] 10:17 ET | in play: none | market filter ON (SPY 719.61 vs open 715.30 / VWAP 717.29) | trades today 0/2
+2026-11-24 [15:17:51] 10:17 ET | in play: none | market filter ON (SPY 719.61 vs open 715.30 / VWAP 717.29) | trades today 0/2
+2026-11-24 [15:18:21] 10:18 ET | in play: none | market filter ON (SPY 719.61 vs open 715.30 / VWAP 717.29) | trades today 0/2
+2026-11-24 [15:18:52] 10:18 ET | in play: none | market filter ON (SPY 719.61 vs open 715.30 / VWAP 717.29) | trades today 0/2
+2026-11-24 [15:19:22] 10:19 ET | in play: none | market filter ON (SPY 719.61 vs open 715.30 / VWAP 717.29) | trades today 0/2
+2026-11-24 [15:19:52] 10:19 ET | in play: none | market filter ON (SPY 719.61 vs open 715.30 / VWAP 717.29) | trades today 0/2
+2026-11-24 [15:20:22] 10:20 ET | in play: none | market filter off (SPY 716.74 vs open 715.30 / VWAP 717.31) | trades today 0/2
+2026-11-24 [15:20:52] 10:20 ET | in play: none | market filter off (SPY 716.74 vs open 715.30 / VWAP 717.31) | trades today 0/2
+2026-11-24 [15:21:23] 10:21 ET | in play: none | market filter off (SPY 716.74 vs open 715.30 / VWAP 717.31) | trades today 0/2
+2026-11-24 [15:21:53] 10:21 ET | in play: none | market filter off (SPY 716.74 vs open 715.30 / VWAP 717.31) | trades today 0/2
+2026-11-24 [15:22:23] 10:22 ET | in play: none | market filter off (SPY 716.74 vs open 715.30 / VWAP 717.31) | trades today 0/2
+2026-11-24 [15:22:53] 10:22 ET | in play: none | market filter off (SPY 716.74 vs open 715.30 / VWAP 717.31) | trades today 0/2
+2026-11-24 [15:23:23] 10:23 ET | in play: none | market filter off (SPY 716.74 vs open 715.30 / VWAP 717.31) | trades today 0/2
+2026-11-24 [15:23:54] 10:23 ET | in play: none | market filter off (SPY 716.74 vs open 715.30 / VWAP 717.31) | trades today 0/2
+2026-11-24 [15:24:24] 10:24 ET | in play: none | market filter off (SPY 716.74 vs open 715.30 / VWAP 717.31) | trades today 0/2
+2026-11-24 [15:24:54] 10:24 ET | in play: none | market filter off (SPY 716.74 vs open 715.30 / VWAP 717.31) | trades today 0/2
+2026-11-24 [15:25:24] 10:25 ET | in play: none | market filter off (SPY 715.97 vs open 715.30 / VWAP 717.26) | trades today 0/2
+2026-11-24 [15:25:54] 10:25 ET | in play: none | market filter off (SPY 715.97 vs open 715.30 / VWAP 717.26) | trades today 0/2
+2026-11-24 [15:26:24] 10:26 ET | in play: none | market filter off (SPY 715.97 vs open 715.30 / VWAP 717.26) | trades today 0/2
+2026-11-24 [15:26:55] 10:26 ET | in play: none | market filter off (SPY 715.97 vs open 715.30 / VWAP 717.26) | trades today 0/2
+2026-11-24 [15:27:25] 10:27 ET | in play: none | market filter off (SPY 715.97 vs open 715.30 / VWAP 717.26) | trades today 0/2
+2026-11-24 [15:27:55] 10:27 ET | in play: none | market filter off (SPY 715.97 vs open 715.30 / VWAP 717.26) | trades today 0/2
+2026-11-24 [15:28:25] 10:28 ET | in play: none | market filter off (SPY 715.97 vs open 715.30 / VWAP 717.26) | trades today 0/2
+2026-11-24 [15:28:55] 10:28 ET | in play: none | market filter off (SPY 715.97 vs open 715.30 / VWAP 717.26) | trades today 0/2
+2026-11-24 [15:29:25] 10:29 ET | in play: none | market filter off (SPY 715.97 vs open 715.30 / VWAP 717.26) | trades today 0/2
+2026-11-24 [15:29:56] 10:29 ET | in play: none | market filter off (SPY 715.97 vs open 715.30 / VWAP 717.26) | trades today 0/2
+2026-11-24 [15:30:26] 10:30 ET | in play: none | market filter off (SPY 714.90 vs open 715.30 / VWAP 717.13) | trades today 0/2
+2026-11-24 [15:30:56] 10:30 ET | in play: none | market filter off (SPY 714.90 vs open 715.30 / VWAP 717.13) | trades today 0/2
+2026-11-24 [15:31:26] 10:31 ET | in play: none | market filter off (SPY 714.90 vs open 715.30 / VWAP 717.13) | trades today 0/2
+2026-11-24 [15:31:56] 10:31 ET | in play: none | market filter off (SPY 714.90 vs open 715.30 / VWAP 717.13) | trades today 0/2
+2026-11-24 [15:32:26] 10:32 ET | in play: none | market filter off (SPY 714.90 vs open 715.30 / VWAP 717.13) | trades today 0/2
+2026-11-24 [15:32:57] 10:32 ET | in play: none | market filter off (SPY 714.90 vs open 715.30 / VWAP 717.13) | trades today 0/2
+2026-11-24 [15:33:27] 10:33 ET | in play: none | market filter off (SPY 714.90 vs open 715.30 / VWAP 717.13) | trades today 0/2
+2026-11-24 [15:33:57] 10:33 ET | in play: none | market filter off (SPY 714.90 vs open 715.30 / VWAP 717.13) | trades today 0/2
+2026-11-24 [15:34:27] 10:34 ET | in play: none | market filter off (SPY 714.90 vs open 715.30 / VWAP 717.13) | trades today 0/2
+2026-11-24 [15:34:57] 10:34 ET | in play: none | market filter off (SPY 714.90 vs open 715.30 / VWAP 717.13) | trades today 0/2
+2026-11-24 [15:35:28] 10:35 ET | in play: none | market filter off (SPY 716.55 vs open 715.30 / VWAP 717.08) | trades today 0/2
+2026-11-24 [15:35:58] 10:35 ET | in play: none | market filter off (SPY 716.55 vs open 715.30 / VWAP 717.08) | trades today 0/2
+2026-11-24 [15:36:28] 10:36 ET | in play: none | market filter off (SPY 716.55 vs open 715.30 / VWAP 717.08) | trades today 0/2
+2026-11-24 [15:36:58] 10:36 ET | in play: none | market filter off (SPY 716.55 vs open 715.30 / VWAP 717.08) | trades today 0/2
+2026-11-24 [15:37:28] 10:37 ET | in play: none | market filter off (SPY 716.55 vs open 715.30 / VWAP 717.08) | trades today 0/2
+2026-11-24 [15:37:58] 10:37 ET | in play: none | market filter off (SPY 716.55 vs open 715.30 / VWAP 717.08) | trades today 0/2
+2026-11-24 [15:38:29] 10:38 ET | in play: none | market filter off (SPY 716.55 vs open 715.30 / VWAP 717.08) | trades today 0/2
+2026-11-24 [15:38:59] 10:38 ET | in play: none | market filter off (SPY 716.55 vs open 715.30 / VWAP 717.08) | trades today 0/2
+2026-11-24 [15:39:29] 10:39 ET | in play: none | market filter off (SPY 716.55 vs open 715.30 / VWAP 717.08) | trades today 0/2
+2026-11-24 [15:39:59] 10:39 ET | in play: none | market filter off (SPY 716.55 vs open 715.30 / VWAP 717.08) | trades today 0/2
+2026-11-24 [15:40:29] 10:40 ET | in play: none | market filter off (SPY 715.89 vs open 715.30 / VWAP 717.06) | trades today 0/2
+2026-11-24 [15:40:59] 10:40 ET | in play: none | market filter off (SPY 715.89 vs open 715.30 / VWAP 717.06) | trades today 0/2
+2026-11-24 [15:41:29] 10:41 ET | in play: none | market filter off (SPY 715.89 vs open 715.30 / VWAP 717.06) | trades today 0/2
+2026-11-24 [15:42:00] 10:41 ET | in play: none | market filter off (SPY 715.89 vs open 715.30 / VWAP 717.06) | trades today 0/2
+2026-11-24 [15:42:30] 10:42 ET | in play: none | market filter off (SPY 715.89 vs open 715.30 / VWAP 717.06) | trades today 0/2
+2026-11-24 [15:43:00] 10:43 ET | in play: none | market filter off (SPY 715.89 vs open 715.30 / VWAP 717.06) | trades today 0/2
+2026-11-24 [15:43:30] 10:43 ET | in play: none | market filter off (SPY 715.89 vs open 715.30 / VWAP 717.06) | trades today 0/2
+2026-11-24 [15:44:00] 10:44 ET | in play: none | market filter off (SPY 715.89 vs open 715.30 / VWAP 717.06) | trades today 0/2
+2026-11-24 [15:44:31] 10:44 ET | in play: none | market filter off (SPY 715.89 vs open 715.30 / VWAP 717.06) | trades today 0/2
+2026-11-24 [15:45:02] 10:45 ET | in play: none | market filter off (SPY 713.42 vs open 715.30 / VWAP 716.61) | trades today 0/2
+2026-11-24 [15:45:32] 10:45 ET | in play: none | market filter off (SPY 713.42 vs open 715.30 / VWAP 716.61) | trades today 0/2
+2026-11-24 [15:46:02] 10:46 ET | in play: none | market filter off (SPY 713.42 vs open 715.30 / VWAP 716.61) | trades today 0/2
+2026-11-24 [15:46:32] 10:46 ET | in play: none | market filter off (SPY 713.42 vs open 715.30 / VWAP 716.61) | trades today 0/2
+2026-11-24 [15:47:02] 10:47 ET | in play: none | market filter off (SPY 713.42 vs open 715.30 / VWAP 716.61) | trades today 0/2
+2026-11-24 [15:47:33] 10:47 ET | in play: none | market filter off (SPY 713.42 vs open 715.30 / VWAP 716.61) | trades today 0/2
+2026-11-24 [15:48:03] 10:48 ET | in play: none | market filter off (SPY 713.42 vs open 715.30 / VWAP 716.61) | trades today 0/2
+2026-11-24 [15:48:33] 10:48 ET | in play: none | market filter off (SPY 713.42 vs open 715.30 / VWAP 716.61) | trades today 0/2
+2026-11-24 [15:49:03] 10:49 ET | in play: none | market filter off (SPY 713.42 vs open 715.30 / VWAP 716.61) | trades today 0/2
+2026-11-24 [15:49:33] 10:49 ET | in play: none | market filter off (SPY 713.42 vs open 715.30 / VWAP 716.61) | trades today 0/2
+2026-11-24 [15:50:04] 10:50 ET | in play: none | market filter off (SPY 713.86 vs open 715.30 / VWAP 716.38) | trades today 0/2
+2026-11-24 [15:50:34] 10:50 ET | in play: none | market filter off (SPY 713.86 vs open 715.30 / VWAP 716.38) | trades today 0/2
+2026-11-24 [15:51:04] 10:51 ET | in play: none | market filter off (SPY 713.86 vs open 715.30 / VWAP 716.38) | trades today 0/2
+2026-11-24 [15:51:34] 10:51 ET | in play: none | market filter off (SPY 713.86 vs open 715.30 / VWAP 716.38) | trades today 0/2
+2026-11-24 [15:52:05] 10:52 ET | in play: none | market filter off (SPY 713.86 vs open 715.30 / VWAP 716.38) | trades today 0/2
+2026-11-24 [15:52:35] 10:52 ET | in play: none | market filter off (SPY 713.86 vs open 715.30 / VWAP 716.38) | trades today 0/2
+2026-11-24 [15:53:05] 10:53 ET | in play: none | market filter off (SPY 713.86 vs open 715.30 / VWAP 716.38) | trades today 0/2
+2026-11-24 [15:53:35] 10:53 ET | in play: none | market filter off (SPY 713.86 vs open 715.30 / VWAP 716.38) | trades today 0/2
+2026-11-24 [15:54:05] 10:54 ET | in play: none | market filter off (SPY 713.86 vs open 715.30 / VWAP 716.38) | trades today 0/2
+2026-11-24 [15:54:36] 10:54 ET | in play: none | market filter off (SPY 713.86 vs open 715.30 / VWAP 716.38) | trades today 0/2
+2026-11-24 [15:55:06] 10:55 ET | in play: none | market filter off (SPY 715.48 vs open 715.30 / VWAP 716.29) | trades today 0/2
+2026-11-24 [15:55:36] 10:55 ET | in play: none | market filter off (SPY 715.48 vs open 715.30 / VWAP 716.29) | trades today 0/2
+2026-11-24 [15:56:06] 10:56 ET | in play: none | market filter off (SPY 715.48 vs open 715.30 / VWAP 716.29) | trades today 0/2
+2026-11-24 [15:56:36] 10:56 ET | in play: none | market filter off (SPY 715.48 vs open 715.30 / VWAP 716.29) | trades today 0/2
+2026-11-24 [15:57:06] 10:57 ET | in play: none | market filter off (SPY 715.48 vs open 715.30 / VWAP 716.29) | trades today 0/2
+2026-11-24 [15:57:37] 10:57 ET | in play: none | market filter off (SPY 715.48 vs open 715.30 / VWAP 716.29) | trades today 0/2
+2026-11-24 [15:58:07] 10:58 ET | in play: none | market filter off (SPY 715.48 vs open 715.30 / VWAP 716.29) | trades today 0/2
+2026-11-24 [15:58:37] 10:58 ET | in play: none | market filter off (SPY 715.48 vs open 715.30 / VWAP 716.29) | trades today 0/2
+2026-11-24 [15:59:07] 10:59 ET | in play: none | market filter off (SPY 715.48 vs open 715.30 / VWAP 716.29) | trades today 0/2
+2026-11-24 [15:59:37] 10:59 ET | in play: none | market filter off (SPY 715.48 vs open 715.30 / VWAP 716.29) | trades today 0/2
+2026-11-24 [16:00:08] 11:00 ET | in play: none | market filter off (SPY 714.57 vs open 715.30 / VWAP 716.26) | trades today 0/2
+2026-11-24 [16:00:38] 11:00 ET | in play: none | market filter off (SPY 714.57 vs open 715.30 / VWAP 716.26) | trades today 0/2
+2026-11-24 [16:01:08] 11:01 ET | in play: none | market filter off (SPY 714.57 vs open 715.30 / VWAP 716.26) | trades today 0/2
+2026-11-24 [16:01:38] 11:01 ET | in play: none | market filter off (SPY 714.57 vs open 715.30 / VWAP 716.26) | trades today 0/2
+2026-11-24 [16:02:08] NEWS [+] ORCL: Oracle Commodity Holding Restores Royalty on Pulacayo-Paca Silver Project
+2026-11-24 [16:02:08] NEWS [ ] UBER: Uber Expands Platform to Include Train Ticket Sales in France
+2026-11-24 [16:02:08] NEWS [+] MSFT: Microsoft Secures 51MW Geothermal Energy Contract in New Zealand
+2026-11-24 [16:02:08] NEWS [ ] XOM: ExxonMobil Guyana Oil Output Expected to Exceed 1 Million Barrels Per Day
+2026-11-24 [16:02:08] NEWS [ ] GM: General Motors Formally Opposes Proposed Union Pacific-Norfolk Southern Merger
+2026-11-24 [16:02:08] NEWS [ ] HOOD: Robinhood Launches Cboe KPI Binary Options for Earnings Trading
+2026-11-24 [16:02:09] 11:02 ET | in play: none | market filter off (SPY 714.57 vs open 715.30 / VWAP 716.26) | trades today 0/2
+2026-11-24 [16:02:39] 11:02 ET | in play: none | market filter off (SPY 714.57 vs open 715.30 / VWAP 716.26) | trades today 0/2
+2026-11-24 [16:03:09] 11:03 ET | in play: none | market filter off (SPY 714.57 vs open 715.30 / VWAP 716.26) | trades today 0/2
+2026-11-24 [16:03:39] 11:03 ET | in play: none | market filter off (SPY 714.57 vs open 715.30 / VWAP 716.26) | trades today 0/2
+2026-11-24 [16:04:09] 11:04 ET | in play: none | market filter off (SPY 714.57 vs open 715.30 / VWAP 716.26) | trades today 0/2
+2026-11-24 [16:04:40] 11:04 ET | in play: none | market filter off (SPY 714.57 vs open 715.30 / VWAP 716.26) | trades today 0/2
+2026-11-24 [16:05:10] 11:05 ET | in play: none | market filter off (SPY 713.50 vs open 715.30 / VWAP 716.19) | trades today 0/2
+2026-11-24 [16:05:40] 11:05 ET | in play: none | market filter off (SPY 713.50 vs open 715.30 / VWAP 716.19) | trades today 0/2
+2026-11-24 [16:06:10] 11:06 ET | in play: none | market filter off (SPY 713.50 vs open 715.30 / VWAP 716.19) | trades today 0/2
+2026-11-24 [16:06:40] 11:06 ET | in play: none | market filter off (SPY 713.50 vs open 715.30 / VWAP 716.19) | trades today 0/2
+2026-11-24 [16:07:11] 11:07 ET | in play: none | market filter off (SPY 713.50 vs open 715.30 / VWAP 716.19) | trades today 0/2
+2026-11-24 [16:07:41] 11:07 ET | in play: none | market filter off (SPY 713.50 vs open 715.30 / VWAP 716.19) | trades today 0/2
+2026-11-24 [16:08:11] 11:08 ET | in play: none | market filter off (SPY 713.50 vs open 715.30 / VWAP 716.19) | trades today 0/2
+2026-11-24 [16:08:41] 11:08 ET | in play: none | market filter off (SPY 713.50 vs open 715.30 / VWAP 716.19) | trades today 0/2
+2026-11-24 [16:09:11] 11:09 ET | in play: none | market filter off (SPY 713.50 vs open 715.30 / VWAP 716.19) | trades today 0/2
+2026-11-24 [16:09:42] 11:09 ET | in play: none | market filter off (SPY 713.50 vs open 715.30 / VWAP 716.19) | trades today 0/2
+2026-11-24 [16:10:12] 11:10 ET | in play: none | market filter off (SPY 714.29 vs open 715.30 / VWAP 716.13) | trades today 0/2
+2026-11-24 [16:10:42] 11:10 ET | in play: none | market filter off (SPY 714.29 vs open 715.30 / VWAP 716.13) | trades today 0/2
+2026-11-24 [16:11:12] 11:11 ET | in play: none | market filter off (SPY 714.29 vs open 715.30 / VWAP 716.13) | trades today 0/2
+2026-11-24 [16:11:42] 11:11 ET | in play: none | market filter off (SPY 714.29 vs open 715.30 / VWAP 716.13) | trades today 0/2
+2026-11-24 [16:12:13] 11:12 ET | in play: none | market filter off (SPY 714.29 vs open 715.30 / VWAP 716.13) | trades today 0/2
+2026-11-24 [16:12:43] 11:12 ET | in play: none | market filter off (SPY 714.29 vs open 715.30 / VWAP 716.13) | trades today 0/2
+2026-11-24 [16:13:13] 11:13 ET | in play: none | market filter off (SPY 714.29 vs open 715.30 / VWAP 716.13) | trades today 0/2
+2026-11-24 [16:13:43] 11:13 ET | in play: none | market filter off (SPY 714.29 vs open 715.30 / VWAP 716.13) | trades today 0/2
+2026-11-24 [16:14:13] 11:14 ET | in play: none | market filter off (SPY 714.29 vs open 715.30 / VWAP 716.13) | trades today 0/2
+2026-11-24 [16:14:44] 11:14 ET | in play: none | market filter off (SPY 714.29 vs open 715.30 / VWAP 716.13) | trades today 0/2
+2026-11-24 [16:15:14] 11:15 ET | in play: none | market filter off (SPY 713.43 vs open 715.30 / VWAP 716.07) | trades today 0/2
+2026-11-24 [16:15:44] 11:15 ET | in play: none | market filter off (SPY 713.43 vs open 715.30 / VWAP 716.07) | trades today 0/2
+2026-11-24 [16:16:14] 11:16 ET | in play: none | market filter off (SPY 713.43 vs open 715.30 / VWAP 716.07) | trades today 0/2
+2026-11-24 [16:16:44] 11:16 ET | in play: none | market filter off (SPY 713.43 vs open 715.30 / VWAP 716.07) | trades today 0/2
+2026-11-24 [16:17:14] 11:17 ET | in play: none | market filter off (SPY 713.43 vs open 715.30 / VWAP 716.07) | trades today 0/2
+2026-11-24 [16:17:45] 11:17 ET | in play: none | market filter off (SPY 713.43 vs open 715.30 / VWAP 716.07) | trades today 0/2
+2026-11-24 [16:18:15] 11:18 ET | in play: none | market filter off (SPY 713.43 vs open 715.30 / VWAP 716.07) | trades today 0/2
+2026-11-24 [16:18:45] 11:18 ET | in play: none | market filter off (SPY 713.43 vs open 715.30 / VWAP 716.07) | trades today 0/2
+2026-11-24 [16:19:15] 11:19 ET | in play: none | market filter off (SPY 713.43 vs open 715.30 / VWAP 716.07) | trades today 0/2
+2026-11-24 [16:19:45] 11:19 ET | in play: none | market filter off (SPY 713.43 vs open 715.30 / VWAP 716.07) | trades today 0/2
+2026-11-24 [16:20:15] 11:20 ET | in play: none | market filter off (SPY 713.74 vs open 715.30 / VWAP 716.02) | trades today 0/2
+2026-11-24 [16:20:46] 11:20 ET | in play: none | market filter off (SPY 713.74 vs open 715.30 / VWAP 716.02) | trades today 0/2
+2026-11-24 [16:21:16] 11:21 ET | in play: none | market filter off (SPY 713.74 vs open 715.30 / VWAP 716.02) | trades today 0/2
+2026-11-24 [16:21:46] 11:21 ET | in play: none | market filter off (SPY 713.74 vs open 715.30 / VWAP 716.02) | trades today 0/2
+2026-11-24 [16:22:16] 11:22 ET | in play: none | market filter off (SPY 713.74 vs open 715.30 / VWAP 716.02) | trades today 0/2
+2026-11-24 [16:22:46] 11:22 ET | in play: none | market filter off (SPY 713.74 vs open 715.30 / VWAP 716.02) | trades today 0/2
+2026-11-24 [16:23:17] 11:23 ET | in play: none | market filter off (SPY 713.74 vs open 715.30 / VWAP 716.02) | trades today 0/2
+2026-11-24 [16:23:47] 11:23 ET | in play: none | market filter off (SPY 713.74 vs open 715.30 / VWAP 716.02) | trades today 0/2
+2026-11-24 [16:24:17] 11:24 ET | in play: none | market filter off (SPY 713.74 vs open 715.30 / VWAP 716.02) | trades today 0/2
+2026-11-24 [16:24:47] 11:24 ET | in play: none | market filter off (SPY 713.74 vs open 715.30 / VWAP 716.02) | trades today 0/2
+2026-11-24 [16:25:17] 11:25 ET | in play: none | market filter ON (SPY 716.17 vs open 715.30 / VWAP 716.00) | trades today 0/2
+2026-11-24 [16:25:47] 11:25 ET | in play: none | market filter ON (SPY 716.17 vs open 715.30 / VWAP 716.00) | trades today 0/2
+2026-11-24 [16:26:18] 11:26 ET | in play: none | market filter ON (SPY 716.17 vs open 715.30 / VWAP 716.00) | trades today 0/2
+2026-11-24 [16:26:48] 11:26 ET | in play: none | market filter ON (SPY 716.17 vs open 715.30 / VWAP 716.00) | trades today 0/2
+2026-11-24 [16:27:18] 11:27 ET | in play: none | market filter ON (SPY 716.17 vs open 715.30 / VWAP 716.00) | trades today 0/2
+2026-11-24 [16:27:48] 11:27 ET | in play: none | market filter ON (SPY 716.17 vs open 715.30 / VWAP 716.00) | trades today 0/2
+2026-11-24 [16:28:18] 11:28 ET | in play: none | market filter ON (SPY 716.17 vs open 715.30 / VWAP 716.00) | trades today 0/2
+2026-11-24 [16:28:48] 11:28 ET | in play: none | market filter ON (SPY 716.17 vs open 715.30 / VWAP 716.00) | trades today 0/2
+2026-11-24 [16:29:19] 11:29 ET | in play: none | market filter ON (SPY 716.17 vs open 715.30 / VWAP 716.00) | trades today 0/2
+2026-11-24 [16:29:49] 11:29 ET | in play: none | market filter ON (SPY 716.17 vs open 715.30 / VWAP 716.00) | trades today 0/2
+2026-11-24 [16:30:19] 11:30 ET | in play: none | market filter off (SPY 714.63 vs open 715.30 / VWAP 715.99) | trades today 0/2
+2026-11-24 [16:30:49] 11:30 ET | in play: none | market filter off (SPY 714.63 vs open 715.30 / VWAP 715.99) | trades today 0/2
+2026-11-24 [16:31:20] 11:31 ET | in play: none | market filter off (SPY 714.63 vs open 715.30 / VWAP 715.99) | trades today 0/2
+2026-11-24 [16:31:50] 11:31 ET | in play: none | market filter off (SPY 714.63 vs open 715.30 / VWAP 715.99) | trades today 0/2
+2026-11-24 [16:32:20] 11:32 ET | in play: none | market filter off (SPY 714.63 vs open 715.30 / VWAP 715.99) | trades today 0/2
+2026-11-24 [16:32:50] 11:32 ET | in play: none | market filter off (SPY 714.63 vs open 715.30 / VWAP 715.99) | trades today 0/2
+2026-11-24 [16:33:20] 11:33 ET | in play: none | market filter off (SPY 714.63 vs open 715.30 / VWAP 715.99) | trades today 0/2
+2026-11-24 [16:33:50] 11:33 ET | in play: none | market filter off (SPY 714.63 vs open 715.30 / VWAP 715.99) | trades today 0/2
+2026-11-24 [16:34:21] 11:34 ET | in play: none | market filter off (SPY 714.63 vs open 715.30 / VWAP 715.99) | trades today 0/2
+2026-11-24 [16:34:51] 11:34 ET | in play: none | market filter off (SPY 714.63 vs open 715.30 / VWAP 715.99) | trades today 0/2
+2026-11-24 [16:35:21] 11:35 ET | in play: none | market filter off (SPY 715.08 vs open 715.30 / VWAP 715.97) | trades today 0/2
+2026-11-24 [16:35:51] 11:35 ET | in play: none | market filter off (SPY 715.08 vs open 715.30 / VWAP 715.97) | trades today 0/2
+2026-11-24 [16:36:21] 11:36 ET | in play: none | market filter off (SPY 715.08 vs open 715.30 / VWAP 715.97) | trades today 0/2
+2026-11-24 [16:36:51] 11:36 ET | in play: none | market filter off (SPY 715.08 vs open 715.30 / VWAP 715.97) | trades today 0/2
+2026-11-24 [16:37:22] 11:37 ET | in play: none | market filter off (SPY 715.08 vs open 715.30 / VWAP 715.97) | trades today 0/2
+2026-11-24 [16:37:52] 11:37 ET | in play: none | market filter off (SPY 715.08 vs open 715.30 / VWAP 715.97) | trades today 0/2
+2026-11-24 [16:38:22] 11:38 ET | in play: none | market filter off (SPY 715.08 vs open 715.30 / VWAP 715.97) | trades today 0/2
+2026-11-24 [16:38:52] 11:38 ET | in play: none | market filter off (SPY 715.08 vs open 715.30 / VWAP 715.97) | trades today 0/2
+2026-11-24 [16:39:22] 11:39 ET | in play: none | market filter off (SPY 715.08 vs open 715.30 / VWAP 715.97) | trades today 0/2
+2026-11-24 [16:39:53] 11:39 ET | in play: none | market filter off (SPY 715.08 vs open 715.30 / VWAP 715.97) | trades today 0/2
+2026-11-24 [16:40:23] 11:40 ET | in play: none | market filter off (SPY 713.60 vs open 715.30 / VWAP 715.94) | trades today 0/2
+2026-11-24 [16:40:53] 11:40 ET | in play: none | market filter off (SPY 713.60 vs open 715.30 / VWAP 715.94) | trades today 0/2
+2026-11-24 [16:41:23] 11:41 ET | in play: none | market filter off (SPY 713.60 vs open 715.30 / VWAP 715.94) | trades today 0/2
+2026-11-24 [16:41:53] 11:41 ET | in play: none | market filter off (SPY 713.60 vs open 715.30 / VWAP 715.94) | trades today 0/2
+2026-11-24 [16:42:24] 11:42 ET | in play: none | market filter off (SPY 713.60 vs open 715.30 / VWAP 715.94) | trades today 0/2
+2026-11-24 [16:42:54] 11:42 ET | in play: none | market filter off (SPY 713.60 vs open 715.30 / VWAP 715.94) | trades today 0/2
+2026-11-24 [16:43:24] 11:43 ET | in play: none | market filter off (SPY 713.60 vs open 715.30 / VWAP 715.94) | trades today 0/2
+2026-11-24 [16:43:54] 11:43 ET | in play: none | market filter off (SPY 713.60 vs open 715.30 / VWAP 715.94) | trades today 0/2
+2026-11-24 [16:44:24] 11:44 ET | in play: none | market filter off (SPY 713.60 vs open 715.30 / VWAP 715.94) | trades today 0/2
+2026-11-24 [16:44:54] 11:44 ET | in play: none | market filter off (SPY 713.60 vs open 715.30 / VWAP 715.94) | trades today 0/2
+2026-11-24 [16:45:25] 11:45 ET | in play: none | market filter off (SPY 715.00 vs open 715.30 / VWAP 715.91) | trades today 0/2
+2026-11-24 [16:45:55] 11:45 ET | in play: none | market filter off (SPY 715.00 vs open 715.30 / VWAP 715.91) | trades today 0/2
+2026-11-24 [16:46:25] 11:46 ET | in play: none | market filter off (SPY 715.00 vs open 715.30 / VWAP 715.91) | trades today 0/2
+2026-11-24 [16:46:55] 11:46 ET | in play: none | market filter off (SPY 715.00 vs open 715.30 / VWAP 715.91) | trades today 0/2
+2026-11-24 [16:47:25] 11:47 ET | in play: none | market filter off (SPY 715.00 vs open 715.30 / VWAP 715.91) | trades today 0/2
+2026-11-24 [16:47:56] 11:47 ET | in play: none | market filter off (SPY 715.00 vs open 715.30 / VWAP 715.91) | trades today 0/2
+2026-11-24 [16:48:26] 11:48 ET | in play: none | market filter off (SPY 715.00 vs open 715.30 / VWAP 715.91) | trades today 0/2
+2026-11-24 [16:48:56] 11:48 ET | in play: none | market filter off (SPY 715.00 vs open 715.30 / VWAP 715.91) | trades today 0/2
+2026-11-24 [16:49:26] 11:49 ET | in play: none | market filter off (SPY 715.00 vs open 715.30 / VWAP 715.91) | trades today 0/2
+2026-11-24 [16:49:56] 11:49 ET | in play: none | market filter off (SPY 715.00 vs open 715.30 / VWAP 715.91) | trades today 0/2
+2026-11-24 [16:50:26] 11:50 ET | in play: none | market filter ON (SPY 716.30 vs open 715.30 / VWAP 715.91) | trades today 0/2
+2026-11-24 [16:50:57] 11:50 ET | in play: none | market filter ON (SPY 716.30 vs open 715.30 / VWAP 715.91) | trades today 0/2
+2026-11-24 [16:51:27] 11:51 ET | in play: none | market filter ON (SPY 716.30 vs open 715.30 / VWAP 715.91) | trades today 0/2
+2026-11-24 [16:51:57] 11:51 ET | in play: none | market filter ON (SPY 716.30 vs open 715.30 / VWAP 715.91) | trades today 0/2
+2026-11-24 [16:52:27] 11:52 ET | in play: none | market filter ON (SPY 716.30 vs open 715.30 / VWAP 715.91) | trades today 0/2
+2026-11-24 [16:52:57] 11:52 ET | in play: none | market filter ON (SPY 716.30 vs open 715.30 / VWAP 715.91) | trades today 0/2
+2026-11-24 [16:53:27] 11:53 ET | in play: none | market filter ON (SPY 716.30 vs open 715.30 / VWAP 715.91) | trades today 0/2
+2026-11-24 [16:53:58] 11:53 ET | in play: none | market filter ON (SPY 716.30 vs open 715.30 / VWAP 715.91) | trades today 0/2
+2026-11-24 [16:54:28] 11:54 ET | in play: none | market filter ON (SPY 716.30 vs open 715.30 / VWAP 715.91) | trades today 0/2
+2026-11-24 [16:54:58] 11:54 ET | in play: none | market filter ON (SPY 716.30 vs open 715.30 / VWAP 715.91) | trades today 0/2
+2026-11-24 [16:55:28] 11:55 ET | in play: none | market filter off (SPY 715.71 vs open 715.30 / VWAP 715.91) | trades today 0/2
+2026-11-24 [16:55:58] 11:55 ET | in play: none | market filter off (SPY 715.71 vs open 715.30 / VWAP 715.91) | trades today 0/2
+2026-11-24 [16:56:29] 11:56 ET | in play: none | market filter off (SPY 715.71 vs open 715.30 / VWAP 715.91) | trades today 0/2
+2026-11-24 [16:56:59] 11:56 ET | in play: none | market filter off (SPY 715.71 vs open 715.30 / VWAP 715.91) | trades today 0/2
+2026-11-24 [16:57:29] 11:57 ET | in play: none | market filter off (SPY 715.71 vs open 715.30 / VWAP 715.91) | trades today 0/2
+2026-11-24 [16:57:59] 11:57 ET | in play: none | market filter off (SPY 715.71 vs open 715.30 / VWAP 715.91) | trades today 0/2
+2026-11-24 [16:58:29] 11:58 ET | in play: none | market filter off (SPY 715.71 vs open 715.30 / VWAP 715.91) | trades today 0/2
+2026-11-24 [16:59:00] 11:58 ET | in play: none | market filter off (SPY 715.71 vs open 715.30 / VWAP 715.91) | trades today 0/2
+2026-11-24 [16:59:30] 11:59 ET | in play: none | market filter off (SPY 715.71 vs open 715.30 / VWAP 715.91) | trades today 0/2
+2026-11-24 [17:00:00] 12:00 ET | in play: none | market filter off (SPY 714.08 vs open 715.30 / VWAP 715.90) | trades today 0/2
+2026-11-24 [17:00:30] 12:00 ET | in play: none | market filter off (SPY 714.08 vs open 715.30 / VWAP 715.90) | trades today 0/2
+2026-11-24 [17:01:01] 12:01 ET | in play: none | market filter off (SPY 714.08 vs open 715.30 / VWAP 715.90) | trades today 0/2
+2026-11-24 [17:01:31] 12:01 ET | in play: none | market filter off (SPY 714.08 vs open 715.30 / VWAP 715.90) | trades today 0/2
+2026-11-24 [17:02:01] 12:02 ET | in play: none | market filter off (SPY 714.08 vs open 715.30 / VWAP 715.90) | trades today 0/2
+2026-11-24 [17:02:32] 12:02 ET | in play: none | market filter off (SPY 714.08 vs open 715.30 / VWAP 715.90) | trades today 0/2
+2026-11-24 [17:03:02] 12:03 ET | in play: none | market filter off (SPY 714.08 vs open 715.30 / VWAP 715.90) | trades today 0/2
+2026-11-24 [17:03:32] 12:03 ET | in play: none | market filter off (SPY 714.08 vs open 715.30 / VWAP 715.90) | trades today 0/2
+2026-11-24 [17:04:02] 12:04 ET | in play: none | market filter off (SPY 714.08 vs open 715.30 / VWAP 715.90) | trades today 0/2
+2026-11-24 [17:04:33] 12:04 ET | in play: none | market filter off (SPY 714.08 vs open 715.30 / VWAP 715.90) | trades today 0/2
+2026-11-24 [17:05:03] 12:05 ET | in play: none | market filter off (SPY 714.61 vs open 715.30 / VWAP 715.87) | trades today 0/2
+2026-11-24 [17:05:33] 12:05 ET | in play: none | market filter off (SPY 714.61 vs open 715.30 / VWAP 715.87) | trades today 0/2
+2026-11-24 [17:06:03] 12:06 ET | in play: none | market filter off (SPY 714.61 vs open 715.30 / VWAP 715.87) | trades today 0/2
+2026-11-24 [17:06:33] 12:06 ET | in play: none | market filter off (SPY 714.61 vs open 715.30 / VWAP 715.87) | trades today 0/2
+2026-11-24 [17:07:04] 12:07 ET | in play: none | market filter off (SPY 714.61 vs open 715.30 / VWAP 715.87) | trades today 0/2
+2026-11-24 [17:07:35] 12:07 ET | in play: none | market filter off (SPY 714.61 vs open 715.30 / VWAP 715.87) | trades today 0/2
+2026-11-24 [17:08:05] 12:08 ET | in play: none | market filter off (SPY 714.61 vs open 715.30 / VWAP 715.87) | trades today 0/2
+2026-11-24 [17:08:35] 12:08 ET | in play: none | market filter off (SPY 714.61 vs open 715.30 / VWAP 715.87) | trades today 0/2
+2026-11-24 [17:09:05] 12:09 ET | in play: none | market filter off (SPY 714.61 vs open 715.30 / VWAP 715.87) | trades today 0/2
+2026-11-24 [17:09:36] 12:09 ET | in play: none | market filter off (SPY 714.61 vs open 715.30 / VWAP 715.87) | trades today 0/2
+2026-11-24 [17:10:06] 12:10 ET | in play: none | market filter ON (SPY 717.65 vs open 715.30 / VWAP 715.89) | trades today 0/2
+2026-11-24 [17:10:36] 12:10 ET | in play: none | market filter ON (SPY 717.65 vs open 715.30 / VWAP 715.89) | trades today 0/2
+2026-11-24 [17:11:06] 12:11 ET | in play: none | market filter ON (SPY 717.65 vs open 715.30 / VWAP 715.89) | trades today 0/2
+2026-11-24 [17:11:36] 12:11 ET | in play: none | market filter ON (SPY 717.65 vs open 715.30 / VWAP 715.89) | trades today 0/2
+2026-11-24 [17:12:07] 12:12 ET | in play: none | market filter ON (SPY 717.65 vs open 715.30 / VWAP 715.89) | trades today 0/2
+2026-11-24 [17:12:37] 12:12 ET | in play: none | market filter ON (SPY 717.65 vs open 715.30 / VWAP 715.89) | trades today 0/2
+2026-11-24 [17:13:07] 12:13 ET | in play: none | market filter ON (SPY 717.65 vs open 715.30 / VWAP 715.89) | trades today 0/2
+2026-11-24 [17:13:37] 12:13 ET | in play: none | market filter ON (SPY 717.65 vs open 715.30 / VWAP 715.89) | trades today 0/2
+2026-11-24 [17:14:07] 12:14 ET | in play: none | market filter ON (SPY 717.65 vs open 715.30 / VWAP 715.89) | trades today 0/2
+2026-11-24 [17:14:37] 12:14 ET | in play: none | market filter ON (SPY 717.65 vs open 715.30 / VWAP 715.89) | trades today 0/2
+2026-11-24 [17:15:08] 12:15 ET | in play: none | market filter ON (SPY 718.17 vs open 715.30 / VWAP 715.97) | trades today 0/2
+2026-11-24 [17:15:38] 12:15 ET | in play: none | market filter ON (SPY 718.17 vs open 715.30 / VWAP 715.97) | trades today 0/2
+2026-11-24 [17:16:08] 12:16 ET | in play: none | market filter ON (SPY 718.17 vs open 715.30 / VWAP 715.97) | trades today 0/2
+2026-11-24 [17:16:38] 12:16 ET | in play: none | market filter ON (SPY 718.17 vs open 715.30 / VWAP 715.97) | trades today 0/2
+2026-11-24 [17:17:08] 12:17 ET | in play: none | market filter ON (SPY 718.17 vs open 715.30 / VWAP 715.97) | trades today 0/2
+2026-11-24 [17:17:39] 12:17 ET | in play: none | market filter ON (SPY 718.17 vs open 715.30 / VWAP 715.97) | trades today 0/2
+2026-11-24 [17:18:09] 12:18 ET | in play: none | market filter ON (SPY 718.17 vs open 715.30 / VWAP 715.97) | trades today 0/2
+2026-11-24 [17:18:39] 12:18 ET | in play: none | market filter ON (SPY 718.17 vs open 715.30 / VWAP 715.97) | trades today 0/2
+2026-11-24 [17:19:09] 12:19 ET | in play: none | market filter ON (SPY 718.17 vs open 715.30 / VWAP 715.97) | trades today 0/2
+2026-11-24 [17:19:39] 12:19 ET | in play: none | market filter ON (SPY 718.17 vs open 715.30 / VWAP 715.97) | trades today 0/2
+2026-11-24 [17:20:10] 12:20 ET | in play: none | market filter ON (SPY 717.67 vs open 715.30 / VWAP 716.00) | trades today 0/2
+2026-11-24 [17:20:40] 12:20 ET | in play: none | market filter ON (SPY 717.67 vs open 715.30 / VWAP 716.00) | trades today 0/2
+2026-11-24 [17:21:10] 12:21 ET | in play: none | market filter ON (SPY 717.67 vs open 715.30 / VWAP 716.00) | trades today 0/2
+2026-11-24 [17:21:40] 12:21 ET | in play: none | market filter ON (SPY 717.67 vs open 715.30 / VWAP 716.00) | trades today 0/2
+2026-11-24 [17:22:10] 12:22 ET | in play: none | market filter ON (SPY 717.67 vs open 715.30 / VWAP 716.00) | trades today 0/2
+2026-11-24 [17:22:41] 12:22 ET | in play: none | market filter ON (SPY 717.67 vs open 715.30 / VWAP 716.00) | trades today 0/2
+2026-11-24 [17:23:11] 12:23 ET | in play: none | market filter ON (SPY 717.67 vs open 715.30 / VWAP 716.00) | trades today 0/2
+2026-11-24 [17:23:41] 12:23 ET | in play: none | market filter ON (SPY 717.67 vs open 715.30 / VWAP 716.00) | trades today 0/2
+2026-11-24 [17:24:11] 12:24 ET | in play: none | market filter ON (SPY 717.67 vs open 715.30 / VWAP 716.00) | trades today 0/2
+2026-11-24 [17:24:41] 12:24 ET | in play: none | market filter ON (SPY 717.67 vs open 715.30 / VWAP 716.00) | trades today 0/2
+2026-11-24 [17:25:11] 12:25 ET | in play: none | market filter ON (SPY 718.17 vs open 715.30 / VWAP 716.02) | trades today 0/2
+2026-11-24 [17:25:42] 12:25 ET | in play: none | market filter ON (SPY 718.17 vs open 715.30 / VWAP 716.02) | trades today 0/2
+2026-11-24 [17:26:12] 12:26 ET | in play: none | market filter ON (SPY 718.17 vs open 715.30 / VWAP 716.02) | trades today 0/2
+2026-11-24 [17:26:42] 12:26 ET | in play: none | market filter ON (SPY 718.17 vs open 715.30 / VWAP 716.02) | trades today 0/2
+2026-11-24 [17:27:12] 12:27 ET | in play: none | market filter ON (SPY 718.17 vs open 715.30 / VWAP 716.02) | trades today 0/2
+2026-11-24 [17:27:42] 12:27 ET | in play: none | market filter ON (SPY 718.17 vs open 715.30 / VWAP 716.02) | trades today 0/2
+2026-11-24 [17:28:13] 12:28 ET | in play: none | market filter ON (SPY 718.17 vs open 715.30 / VWAP 716.02) | trades today 0/2
+2026-11-24 [17:28:43] 12:28 ET | in play: none | market filter ON (SPY 718.17 vs open 715.30 / VWAP 716.02) | trades today 0/2
+2026-11-24 [17:29:13] 12:29 ET | in play: none | market filter ON (SPY 718.17 vs open 715.30 / VWAP 716.02) | trades today 0/2
+2026-11-24 [17:29:43] 12:29 ET | in play: none | market filter ON (SPY 718.17 vs open 715.30 / VWAP 716.02) | trades today 0/2
+2026-11-24 [17:30:13] 12:30 ET | in play: none | market filter ON (SPY 718.69 vs open 715.30 / VWAP 716.04) | trades today 0/2
+2026-11-24 [17:30:44] 12:30 ET | in play: none | market filter ON (SPY 718.69 vs open 715.30 / VWAP 716.04) | trades today 0/2
+2026-11-24 [17:31:14] 12:31 ET | in play: none | market filter ON (SPY 718.69 vs open 715.30 / VWAP 716.04) | trades today 0/2
+2026-11-24 [17:31:44] 12:31 ET | in play: none | market filter ON (SPY 718.69 vs open 715.30 / VWAP 716.04) | trades today 0/2
+2026-11-24 [17:32:14] 12:32 ET | in play: none | market filter ON (SPY 718.69 vs open 715.30 / VWAP 716.04) | trades today 0/2
+2026-11-24 [17:32:44] 12:32 ET | in play: none | market filter ON (SPY 718.69 vs open 715.30 / VWAP 716.04) | trades today 0/2
+2026-11-24 [17:33:15] 12:33 ET | in play: none | market filter ON (SPY 718.69 vs open 715.30 / VWAP 716.04) | trades today 0/2
+2026-11-24 [17:33:45] 12:33 ET | in play: none | market filter ON (SPY 718.69 vs open 715.30 / VWAP 716.04) | trades today 0/2
+2026-11-24 [17:34:15] 12:34 ET | in play: none | market filter ON (SPY 718.69 vs open 715.30 / VWAP 716.04) | trades today 0/2
+2026-11-24 [17:34:45] 12:34 ET | in play: none | market filter ON (SPY 718.69 vs open 715.30 / VWAP 716.04) | trades today 0/2
+2026-11-24 [17:35:15] 12:35 ET | in play: none | market filter ON (SPY 719.84 vs open 715.30 / VWAP 716.15) | trades today 0/2
+2026-11-24 [17:35:46] 12:35 ET | in play: none | market filter ON (SPY 719.84 vs open 715.30 / VWAP 716.15) | trades today 0/2
+2026-11-24 [17:36:16] 12:36 ET | in play: none | market filter ON (SPY 719.84 vs open 715.30 / VWAP 716.15) | trades today 0/2
+2026-11-24 [17:36:46] 12:36 ET | in play: none | market filter ON (SPY 719.84 vs open 715.30 / VWAP 716.15) | trades today 0/2
+2026-11-24 [17:37:16] 12:37 ET | in play: none | market filter ON (SPY 719.84 vs open 715.30 / VWAP 716.15) | trades today 0/2
+2026-11-24 [17:37:46] 12:37 ET | in play: none | market filter ON (SPY 719.84 vs open 715.30 / VWAP 716.15) | trades today 0/2
+2026-11-24 [17:38:17] 12:38 ET | in play: none | market filter ON (SPY 719.84 vs open 715.30 / VWAP 716.15) | trades today 0/2
+2026-11-24 [17:38:47] 12:38 ET | in play: none | market filter ON (SPY 719.84 vs open 715.30 / VWAP 716.15) | trades today 0/2
+2026-11-24 [17:39:17] 12:39 ET | in play: none | market filter ON (SPY 719.84 vs open 715.30 / VWAP 716.15) | trades today 0/2
+2026-11-24 [17:39:47] 12:39 ET | in play: none | market filter ON (SPY 719.84 vs open 715.30 / VWAP 716.15) | trades today 0/2
+2026-11-24 [17:40:17] 12:40 ET | in play: none | market filter ON (SPY 719.00 vs open 715.30 / VWAP 716.18) | trades today 0/2
+2026-11-24 [17:40:47] 12:40 ET | in play: none | market filter ON (SPY 719.00 vs open 715.30 / VWAP 716.18) | trades today 0/2
+2026-11-24 [17:41:18] 12:41 ET | in play: none | market filter ON (SPY 719.00 vs open 715.30 / VWAP 716.18) | trades today 0/2
+2026-11-24 [17:41:48] 12:41 ET | in play: none | market filter ON (SPY 719.00 vs open 715.30 / VWAP 716.18) | trades today 0/2
+2026-11-24 [17:42:18] 12:42 ET | in play: none | market filter ON (SPY 719.00 vs open 715.30 / VWAP 716.18) | trades today 0/2
+2026-11-24 [17:42:48] 12:42 ET | in play: none | market filter ON (SPY 719.00 vs open 715.30 / VWAP 716.18) | trades today 0/2
+2026-11-24 [17:43:18] 12:43 ET | in play: none | market filter ON (SPY 719.00 vs open 715.30 / VWAP 716.18) | trades today 0/2
+2026-11-24 [17:43:49] 12:43 ET | in play: none | market filter ON (SPY 719.00 vs open 715.30 / VWAP 716.18) | trades today 0/2
+2026-11-24 [17:44:19] 12:44 ET | in play: none | market filter ON (SPY 719.00 vs open 715.30 / VWAP 716.18) | trades today 0/2
+2026-11-24 [17:44:49] 12:44 ET | in play: none | market filter ON (SPY 719.00 vs open 715.30 / VWAP 716.18) | trades today 0/2
+2026-11-24 [17:45:19] 12:45 ET | in play: none | market filter ON (SPY 720.18 vs open 715.30 / VWAP 716.21) | trades today 0/2
+2026-11-24 [17:45:49] 12:45 ET | in play: none | market filter ON (SPY 720.18 vs open 715.30 / VWAP 716.21) | trades today 0/2
+2026-11-24 [17:46:20] 12:46 ET | in play: none | market filter ON (SPY 720.18 vs open 715.30 / VWAP 716.21) | trades today 0/2
+2026-11-24 [17:46:50] 12:46 ET | in play: none | market filter ON (SPY 720.18 vs open 715.30 / VWAP 716.21) | trades today 0/2
+2026-11-24 [17:47:20] 12:47 ET | in play: none | market filter ON (SPY 720.18 vs open 715.30 / VWAP 716.21) | trades today 0/2
+2026-11-24 [17:47:50] 12:47 ET | in play: none | market filter ON (SPY 720.18 vs open 715.30 / VWAP 716.21) | trades today 0/2
+2026-11-24 [17:48:21] 12:48 ET | in play: none | market filter ON (SPY 720.18 vs open 715.30 / VWAP 716.21) | trades today 0/2
+2026-11-24 [17:48:51] 12:48 ET | in play: none | market filter ON (SPY 720.18 vs open 715.30 / VWAP 716.21) | trades today 0/2
+2026-11-24 [17:49:21] 12:49 ET | in play: none | market filter ON (SPY 720.18 vs open 715.30 / VWAP 716.21) | trades today 0/2
+2026-11-24 [17:49:51] 12:49 ET | in play: none | market filter ON (SPY 720.18 vs open 715.30 / VWAP 716.21) | trades today 0/2
+2026-11-24 [17:50:21] 12:50 ET | in play: none | market filter ON (SPY 718.99 vs open 715.30 / VWAP 716.23) | trades today 0/2
+2026-11-24 [17:50:51] 12:50 ET | in play: none | market filter ON (SPY 718.99 vs open 715.30 / VWAP 716.23) | trades today 0/2
+2026-11-24 [17:51:22] 12:51 ET | in play: none | market filter ON (SPY 718.99 vs open 715.30 / VWAP 716.23) | trades today 0/2
+2026-11-24 [17:51:52] 12:51 ET | in play: none | market filter ON (SPY 718.99 vs open 715.30 / VWAP 716.23) | trades today 0/2
+2026-11-24 [17:52:22] 12:52 ET | in play: none | market filter ON (SPY 718.99 vs open 715.30 / VWAP 716.23) | trades today 0/2
+2026-11-24 [17:52:52] 12:52 ET | in play: none | market filter ON (SPY 718.99 vs open 715.30 / VWAP 716.23) | trades today 0/2
+2026-11-24 [17:53:23] 12:53 ET | in play: none | market filter ON (SPY 718.99 vs open 715.30 / VWAP 716.23) | trades today 0/2
+2026-11-24 [17:53:53] 12:53 ET | in play: none | market filter ON (SPY 718.99 vs open 715.30 / VWAP 716.23) | trades today 0/2
+2026-11-24 [17:54:23] 12:54 ET | in play: none | market filter ON (SPY 718.99 vs open 715.30 / VWAP 716.23) | trades today 0/2
+2026-11-24 [17:54:53] 12:54 ET | in play: none | market filter ON (SPY 718.99 vs open 715.30 / VWAP 716.23) | trades today 0/2
+2026-11-24 [17:55:23] 12:55 ET | in play: none | market filter ON (SPY 718.39 vs open 715.30 / VWAP 716.24) | trades today 0/2
+2026-11-24 [17:55:53] 12:55 ET | in play: none | market filter ON (SPY 718.39 vs open 715.30 / VWAP 716.24) | trades today 0/2
+2026-11-24 [17:56:24] 12:56 ET | in play: none | market filter ON (SPY 718.39 vs open 715.30 / VWAP 716.24) | trades today 0/2
+2026-11-24 [17:56:54] 12:56 ET | in play: none | market filter ON (SPY 718.39 vs open 715.30 / VWAP 716.24) | trades today 0/2
+2026-11-24 [17:57:24] 12:57 ET | in play: none | market filter ON (SPY 718.39 vs open 715.30 / VWAP 716.24) | trades today 0/2
+2026-11-24 [17:57:54] 12:57 ET | in play: none | market filter ON (SPY 718.39 vs open 715.30 / VWAP 716.24) | trades today 0/2
+2026-11-24 [17:58:24] 12:58 ET | in play: none | market filter ON (SPY 718.39 vs open 715.30 / VWAP 716.24) | trades today 0/2
+2026-11-24 [17:58:55] 12:58 ET | in play: none | market filter ON (SPY 718.39 vs open 715.30 / VWAP 716.24) | trades today 0/2
+2026-11-24 [17:59:25] 12:59 ET | in play: none | market filter ON (SPY 718.39 vs open 715.30 / VWAP 716.24) | trades today 0/2
+2026-11-24 [17:59:55] 12:59 ET | in play: none | market filter ON (SPY 718.39 vs open 715.30 / VWAP 716.24) | trades today 0/2
+2026-11-24 [18:00:25] 13:00 ET | in play: none | market filter ON (SPY 719.35 vs open 715.30 / VWAP 716.26) | trades today 0/2
+2026-11-24 [18:00:55] 13:00 ET | in play: none | market filter ON (SPY 719.35 vs open 715.30 / VWAP 716.26) | trades today 0/2
+2026-11-24 [18:01:26] 13:01 ET | in play: none | market filter ON (SPY 719.35 vs open 715.30 / VWAP 716.26) | trades today 0/2
+2026-11-24 [18:01:56] 13:01 ET | in play: none | market filter ON (SPY 719.35 vs open 715.30 / VWAP 716.26) | trades today 0/2
+2026-11-24 [18:02:26] 13:02 ET | in play: none | market filter ON (SPY 719.35 vs open 715.30 / VWAP 716.26) | trades today 0/2
+2026-11-24 [18:02:56] 13:02 ET | in play: none | market filter ON (SPY 719.35 vs open 715.30 / VWAP 716.26) | trades today 0/2
+2026-11-24 [18:03:26] 13:03 ET | in play: none | market filter ON (SPY 719.35 vs open 715.30 / VWAP 716.26) | trades today 0/2
+2026-11-24 [18:03:57] 13:03 ET | in play: none | market filter ON (SPY 719.35 vs open 715.30 / VWAP 716.26) | trades today 0/2
+2026-11-24 [18:04:27] 13:04 ET | in play: none | market filter ON (SPY 719.35 vs open 715.30 / VWAP 716.26) | trades today 0/2
+2026-11-24 [18:04:57] 13:04 ET | in play: none | market filter ON (SPY 719.35 vs open 715.30 / VWAP 716.26) | trades today 0/2
+2026-11-24 [18:05:27] 13:05 ET | in play: none | market filter ON (SPY 718.81 vs open 715.30 / VWAP 716.29) | trades today 0/2
+2026-11-24 [18:05:57] 13:05 ET | in play: none | market filter ON (SPY 718.81 vs open 715.30 / VWAP 716.29) | trades today 0/2
+2026-11-24 [18:06:28] 13:06 ET | in play: none | market filter ON (SPY 718.81 vs open 715.30 / VWAP 716.29) | trades today 0/2
+2026-11-24 [18:06:58] 13:06 ET | in play: none | market filter ON (SPY 718.81 vs open 715.30 / VWAP 716.29) | trades today 0/2
+2026-11-24 [18:07:28] 13:07 ET | in play: none | market filter ON (SPY 718.81 vs open 715.30 / VWAP 716.29) | trades today 0/2
+2026-11-24 [18:07:58] 13:07 ET | in play: none | market filter ON (SPY 718.81 vs open 715.30 / VWAP 716.29) | trades today 0/2
+2026-11-24 [18:08:28] 13:08 ET | in play: none | market filter ON (SPY 718.81 vs open 715.30 / VWAP 716.29) | trades today 0/2
+2026-11-24 [18:08:59] 13:08 ET | in play: none | market filter ON (SPY 718.81 vs open 715.30 / VWAP 716.29) | trades today 0/2
+2026-11-24 [18:09:29] 13:09 ET | in play: none | market filter ON (SPY 718.81 vs open 715.30 / VWAP 716.29) | trades today 0/2
+2026-11-24 [18:09:59] 13:09 ET | in play: none | market filter ON (SPY 718.81 vs open 715.30 / VWAP 716.29) | trades today 0/2
+2026-11-24 [18:10:29] 13:10 ET | in play: none | market filter ON (SPY 718.41 vs open 715.30 / VWAP 716.31) | trades today 0/2
+2026-11-24 [18:10:59] 13:10 ET | in play: none | market filter ON (SPY 718.41 vs open 715.30 / VWAP 716.31) | trades today 0/2
+2026-11-24 [18:11:30] 13:11 ET | in play: none | market filter ON (SPY 718.41 vs open 715.30 / VWAP 716.31) | trades today 0/2
+2026-11-24 [18:12:00] 13:12 ET | in play: none | market filter ON (SPY 718.41 vs open 715.30 / VWAP 716.31) | trades today 0/2
+2026-11-24 [18:12:30] 13:12 ET | in play: none | market filter ON (SPY 718.41 vs open 715.30 / VWAP 716.31) | trades today 0/2
+2026-11-24 [18:13:00] 13:13 ET | in play: none | market filter ON (SPY 718.41 vs open 715.30 / VWAP 716.31) | trades today 0/2
+2026-11-24 [18:13:30] 13:13 ET | in play: none | market filter ON (SPY 718.41 vs open 715.30 / VWAP 716.31) | trades today 0/2
+2026-11-24 [18:14:01] 13:14 ET | in play: none | market filter ON (SPY 718.41 vs open 715.30 / VWAP 716.31) | trades today 0/2
+2026-11-24 [18:14:31] 13:14 ET | in play: none | market filter ON (SPY 718.41 vs open 715.30 / VWAP 716.31) | trades today 0/2
+2026-11-24 [18:15:01] 13:15 ET | in play: none | market filter ON (SPY 718.48 vs open 715.30 / VWAP 716.32) | trades today 0/2
+2026-11-24 [18:15:31] 13:15 ET | in play: none | market filter ON (SPY 718.48 vs open 715.30 / VWAP 716.32) | trades today 0/2
+2026-11-24 [18:16:02] 13:16 ET | in play: none | market filter ON (SPY 718.48 vs open 715.30 / VWAP 716.32) | trades today 0/2
+2026-11-24 [18:16:32] 13:16 ET | in play: none | market filter ON (SPY 718.48 vs open 715.30 / VWAP 716.32) | trades today 0/2
+2026-11-24 [18:17:02] 13:17 ET | in play: none | market filter ON (SPY 718.48 vs open 715.30 / VWAP 716.32) | trades today 0/2
+2026-11-24 [18:17:32] 13:17 ET | in play: none | market filter ON (SPY 718.48 vs open 715.30 / VWAP 716.32) | trades today 0/2
+2026-11-24 [18:18:02] 13:18 ET | in play: none | market filter ON (SPY 718.48 vs open 715.30 / VWAP 716.32) | trades today 0/2
+2026-11-24 [18:18:33] 13:18 ET | in play: none | market filter ON (SPY 718.48 vs open 715.30 / VWAP 716.32) | trades today 0/2
+2026-11-24 [18:19:03] 13:19 ET | in play: none | market filter ON (SPY 718.48 vs open 715.30 / VWAP 716.32) | trades today 0/2
+2026-11-24 [18:19:33] 13:19 ET | in play: none | market filter ON (SPY 718.48 vs open 715.30 / VWAP 716.32) | trades today 0/2
+2026-11-24 [18:20:04] 13:20 ET | in play: none | market filter ON (SPY 718.20 vs open 715.30 / VWAP 716.35) | trades today 0/2
+2026-11-24 [18:20:34] 13:20 ET | in play: none | market filter ON (SPY 718.20 vs open 715.30 / VWAP 716.35) | trades today 0/2
+2026-11-24 [18:21:04] 13:21 ET | in play: none | market filter ON (SPY 718.20 vs open 715.30 / VWAP 716.35) | trades today 0/2
+2026-11-24 [18:21:34] 13:21 ET | in play: none | market filter ON (SPY 718.20 vs open 715.30 / VWAP 716.35) | trades today 0/2
+2026-11-24 [18:22:04] 13:22 ET | in play: none | market filter ON (SPY 718.20 vs open 715.30 / VWAP 716.35) | trades today 0/2
+2026-11-24 [18:22:35] 13:22 ET | in play: none | market filter ON (SPY 718.20 vs open 715.30 / VWAP 716.35) | trades today 0/2
+2026-11-24 [18:23:05] 13:23 ET | in play: none | market filter ON (SPY 718.20 vs open 715.30 / VWAP 716.35) | trades today 0/2
+2026-11-24 [18:23:35] 13:23 ET | in play: none | market filter ON (SPY 718.20 vs open 715.30 / VWAP 716.35) | trades today 0/2
+2026-11-24 [18:24:05] 13:24 ET | in play: none | market filter ON (SPY 718.20 vs open 715.30 / VWAP 716.35) | trades today 0/2
+2026-11-24 [18:24:35] 13:24 ET | in play: none | market filter ON (SPY 718.20 vs open 715.30 / VWAP 716.35) | trades today 0/2
+2026-11-24 [18:25:06] 13:25 ET | in play: none | market filter ON (SPY 718.49 vs open 715.30 / VWAP 716.36) | trades today 0/2
+2026-11-24 [18:25:36] 13:25 ET | in play: none | market filter ON (SPY 718.49 vs open 715.30 / VWAP 716.36) | trades today 0/2
+2026-11-24 [18:26:06] 13:26 ET | in play: none | market filter ON (SPY 718.49 vs open 715.30 / VWAP 716.36) | trades today 0/2
+2026-11-24 [18:26:36] 13:26 ET | in play: none | market filter ON (SPY 718.49 vs open 715.30 / VWAP 716.36) | trades today 0/2
+2026-11-24 [18:27:06] 13:27 ET | in play: none | market filter ON (SPY 718.49 vs open 715.30 / VWAP 716.36) | trades today 0/2
+2026-11-24 [18:27:37] 13:27 ET | in play: none | market filter ON (SPY 718.49 vs open 715.30 / VWAP 716.36) | trades today 0/2
+2026-11-24 [18:28:07] 13:28 ET | in play: none | market filter ON (SPY 718.49 vs open 715.30 / VWAP 716.36) | trades today 0/2
+2026-11-24 [18:28:37] 13:28 ET | in play: none | market filter ON (SPY 718.49 vs open 715.30 / VWAP 716.36) | trades today 0/2
+2026-11-24 [18:29:07] 13:29 ET | in play: none | market filter ON (SPY 718.49 vs open 715.30 / VWAP 716.36) | trades today 0/2
+2026-11-24 [18:29:38] 13:29 ET | in play: none | market filter ON (SPY 718.49 vs open 715.30 / VWAP 716.36) | trades today 0/2
+2026-11-24 [18:30:08] 13:30 ET | in play: none | market filter ON (SPY 718.86 vs open 715.30 / VWAP 716.37) | trades today 0/2
+2026-11-24 [18:30:38] 13:30 ET | in play: none | market filter ON (SPY 718.86 vs open 715.30 / VWAP 716.37) | trades today 0/2
+2026-11-24 [18:31:08] 13:31 ET | in play: none | market filter ON (SPY 718.86 vs open 715.30 / VWAP 716.37) | trades today 0/2
+2026-11-24 [18:31:39] 13:31 ET | in play: none | market filter ON (SPY 718.86 vs open 715.30 / VWAP 716.37) | trades today 0/2
+2026-11-24 [18:32:09] 13:32 ET | in play: none | market filter ON (SPY 718.86 vs open 715.30 / VWAP 716.37) | trades today 0/2
+2026-11-24 [18:32:39] 13:32 ET | in play: none | market filter ON (SPY 718.86 vs open 715.30 / VWAP 716.37) | trades today 0/2
+2026-11-24 [18:33:09] 13:33 ET | in play: none | market filter ON (SPY 718.86 vs open 715.30 / VWAP 716.37) | trades today 0/2
+2026-11-24 [18:33:39] 13:33 ET | in play: none | market filter ON (SPY 718.86 vs open 715.30 / VWAP 716.37) | trades today 0/2
+2026-11-24 [18:34:10] 13:34 ET | in play: none | market filter ON (SPY 718.86 vs open 715.30 / VWAP 716.37) | trades today 0/2
+2026-11-24 [18:34:40] 13:34 ET | in play: none | market filter ON (SPY 718.86 vs open 715.30 / VWAP 716.37) | trades today 0/2
+2026-11-24 [18:35:10] 13:35 ET | in play: none | market filter ON (SPY 719.31 vs open 715.30 / VWAP 716.40) | trades today 0/2
+2026-11-24 [18:35:40] 13:35 ET | in play: none | market filter ON (SPY 719.31 vs open 715.30 / VWAP 716.40) | trades today 0/2
+2026-11-24 [18:36:10] 13:36 ET | in play: none | market filter ON (SPY 719.31 vs open 715.30 / VWAP 716.40) | trades today 0/2
+2026-11-24 [18:36:41] 13:36 ET | in play: none | market filter ON (SPY 719.31 vs open 715.30 / VWAP 716.40) | trades today 0/2
+2026-11-24 [18:37:11] 13:37 ET | in play: none | market filter ON (SPY 719.31 vs open 715.30 / VWAP 716.40) | trades today 0/2
+2026-11-24 [18:37:41] 13:37 ET | in play: none | market filter ON (SPY 719.31 vs open 715.30 / VWAP 716.40) | trades today 0/2
+2026-11-24 [18:38:11] 13:38 ET | in play: none | market filter ON (SPY 719.31 vs open 715.30 / VWAP 716.40) | trades today 0/2
+2026-11-24 [18:38:42] 13:38 ET | in play: none | market filter ON (SPY 719.31 vs open 715.30 / VWAP 716.40) | trades today 0/2
+2026-11-24 [18:39:12] 13:39 ET | in play: none | market filter ON (SPY 719.31 vs open 715.30 / VWAP 716.40) | trades today 0/2
+2026-11-24 [18:39:42] 13:39 ET | in play: none | market filter ON (SPY 719.31 vs open 715.30 / VWAP 716.40) | trades today 0/2
+2026-11-24 [18:40:12] 13:40 ET | in play: none | market filter ON (SPY 718.97 vs open 715.30 / VWAP 716.42) | trades today 0/2
+2026-11-24 [18:40:42] 13:40 ET | in play: none | market filter ON (SPY 718.97 vs open 715.30 / VWAP 716.42) | trades today 0/2
+2026-11-24 [18:41:12] 13:41 ET | in play: none | market filter ON (SPY 718.97 vs open 715.30 / VWAP 716.42) | trades today 0/2
+2026-11-24 [18:41:43] 13:41 ET | in play: none | market filter ON (SPY 718.97 vs open 715.30 / VWAP 716.42) | trades today 0/2
+2026-11-24 [18:42:13] 13:42 ET | in play: none | market filter ON (SPY 718.97 vs open 715.30 / VWAP 716.42) | trades today 0/2
+2026-11-24 [18:42:43] 13:42 ET | in play: none | market filter ON (SPY 718.97 vs open 715.30 / VWAP 716.42) | trades today 0/2
+2026-11-24 [18:43:13] 13:43 ET | in play: none | market filter ON (SPY 718.97 vs open 715.30 / VWAP 716.42) | trades today 0/2
+2026-11-24 [18:43:43] 13:43 ET | in play: none | market filter ON (SPY 718.97 vs open 715.30 / VWAP 716.42) | trades today 0/2
+2026-11-24 [18:44:14] 13:44 ET | in play: none | market filter ON (SPY 718.97 vs open 715.30 / VWAP 716.42) | trades today 0/2
+2026-11-24 [18:44:44] 13:44 ET | in play: none | market filter ON (SPY 718.97 vs open 715.30 / VWAP 716.42) | trades today 0/2
+2026-11-24 [18:45:14] 13:45 ET | in play: none | market filter ON (SPY 718.20 vs open 715.30 / VWAP 716.43) | trades today 0/2
+2026-11-24 [18:45:44] 13:45 ET | in play: none | market filter ON (SPY 718.20 vs open 715.30 / VWAP 716.43) | trades today 0/2
+2026-11-24 [18:46:15] 13:46 ET | in play: none | market filter ON (SPY 718.20 vs open 715.30 / VWAP 716.43) | trades today 0/2
+2026-11-24 [18:46:45] 13:46 ET | in play: none | market filter ON (SPY 718.20 vs open 715.30 / VWAP 716.43) | trades today 0/2
+2026-11-24 [18:47:15] 13:47 ET | in play: none | market filter ON (SPY 718.20 vs open 715.30 / VWAP 716.43) | trades today 0/2
+2026-11-24 [18:47:45] 13:47 ET | in play: none | market filter ON (SPY 718.20 vs open 715.30 / VWAP 716.43) | trades today 0/2
+2026-11-24 [18:48:15] 13:48 ET | in play: none | market filter ON (SPY 718.20 vs open 715.30 / VWAP 716.43) | trades today 0/2
+2026-11-24 [18:48:46] 13:48 ET | in play: none | market filter ON (SPY 718.20 vs open 715.30 / VWAP 716.43) | trades today 0/2
+2026-11-24 [18:49:16] 13:49 ET | in play: none | market filter ON (SPY 718.20 vs open 715.30 / VWAP 716.43) | trades today 0/2
+2026-11-24 [18:49:46] 13:49 ET | in play: none | market filter ON (SPY 718.20 vs open 715.30 / VWAP 716.43) | trades today 0/2
+2026-11-24 [18:50:16] 13:50 ET | in play: none | market filter ON (SPY 718.15 vs open 715.30 / VWAP 716.44) | trades today 0/2
+2026-11-24 [18:50:46] 13:50 ET | in play: none | market filter ON (SPY 718.15 vs open 715.30 / VWAP 716.44) | trades today 0/2
+2026-11-24 [18:51:17] 13:51 ET | in play: none | market filter ON (SPY 718.15 vs open 715.30 / VWAP 716.44) | trades today 0/2
+2026-11-24 [18:51:47] 13:51 ET | in play: none | market filter ON (SPY 718.15 vs open 715.30 / VWAP 716.44) | trades today 0/2
+2026-11-24 [18:52:17] 13:52 ET | in play: none | market filter ON (SPY 718.15 vs open 715.30 / VWAP 716.44) | trades today 0/2
+2026-11-24 [18:52:47] 13:52 ET | in play: none | market filter ON (SPY 718.15 vs open 715.30 / VWAP 716.44) | trades today 0/2
+2026-11-24 [18:53:17] 13:53 ET | in play: none | market filter ON (SPY 718.15 vs open 715.30 / VWAP 716.44) | trades today 0/2
+2026-11-24 [18:53:48] 13:53 ET | in play: none | market filter ON (SPY 718.15 vs open 715.30 / VWAP 716.44) | trades today 0/2
+2026-11-24 [18:54:18] 13:54 ET | in play: none | market filter ON (SPY 718.15 vs open 715.30 / VWAP 716.44) | trades today 0/2
+2026-11-24 [18:54:48] 13:54 ET | in play: none | market filter ON (SPY 718.15 vs open 715.30 / VWAP 716.44) | trades today 0/2
+2026-11-24 [18:55:18] 13:55 ET | in play: none | market filter ON (SPY 717.74 vs open 715.30 / VWAP 716.44) | trades today 0/2
+2026-11-24 [18:55:49] 13:55 ET | in play: none | market filter ON (SPY 717.74 vs open 715.30 / VWAP 716.44) | trades today 0/2
+2026-11-24 [18:56:19] 13:56 ET | in play: none | market filter ON (SPY 717.74 vs open 715.30 / VWAP 716.44) | trades today 0/2
+2026-11-24 [18:56:49] 13:56 ET | in play: none | market filter ON (SPY 717.74 vs open 715.30 / VWAP 716.44) | trades today 0/2
+2026-11-24 [18:57:19] 13:57 ET | in play: none | market filter ON (SPY 717.74 vs open 715.30 / VWAP 716.44) | trades today 0/2
+2026-11-24 [18:57:49] 13:57 ET | in play: none | market filter ON (SPY 717.74 vs open 715.30 / VWAP 716.44) | trades today 0/2
+2026-11-24 [18:58:20] 13:58 ET | in play: none | market filter ON (SPY 717.74 vs open 715.30 / VWAP 716.44) | trades today 0/2
+2026-11-24 [18:58:50] 13:58 ET | in play: none | market filter ON (SPY 717.74 vs open 715.30 / VWAP 716.44) | trades today 0/2
+2026-11-24 [18:59:20] 13:59 ET | in play: none | market filter ON (SPY 717.74 vs open 715.30 / VWAP 716.44) | trades today 0/2
+2026-11-24 [18:59:50] 13:59 ET | in play: none | market filter ON (SPY 717.74 vs open 715.30 / VWAP 716.44) | trades today 0/2
+2026-11-24 [19:00:20] 14:00 ET | in play: none | market filter ON (SPY 717.04 vs open 715.30 / VWAP 716.45) | trades today 0/2
+2026-11-24 [19:00:51] 14:00 ET | in play: none | market filter ON (SPY 717.04 vs open 715.30 / VWAP 716.45) | trades today 0/2
+2026-11-24 [19:01:21] 14:01 ET | in play: none | market filter ON (SPY 717.04 vs open 715.30 / VWAP 716.45) | trades today 0/2
+2026-11-24 [19:01:51] 14:01 ET | in play: none | market filter ON (SPY 717.04 vs open 715.30 / VWAP 716.45) | trades today 0/2
+2026-11-24 [19:02:21] 14:02 ET | in play: none | market filter ON (SPY 717.04 vs open 715.30 / VWAP 716.45) | trades today 0/2
+2026-11-24 [19:02:52] 14:02 ET | in play: none | market filter ON (SPY 717.04 vs open 715.30 / VWAP 716.45) | trades today 0/2
+2026-11-24 [19:03:22] NEWS [+] AAPL: Apple to Host Special Event at SoHo Store Marking 20 Years of (RED) Partnership
+2026-11-24 [19:03:22] NEWS [ ] NFLX: German Voice Actors Protest Netflix Over AI Usage
+2026-11-24 [19:03:22] NEWS [ ] BAC: Bank of America Corporation Reports Decrease in Voting Interest in Workspace Group PLC
+2026-11-24 [19:03:22] NEWS [ ] HOOD: Robinhood Co-Leads $5 Million Seed Investment in Onchain Trading Platform Rialto
+2026-11-24 [19:03:22] NEWS [-] F: Ford Faces Class Action Lawsuit Over Maverick Backup Camera Defect
+2026-11-24 [19:03:22] 14:03 ET | in play: none | market filter ON (SPY 717.04 vs open 715.30 / VWAP 716.45) | trades today 0/2
+2026-11-24 [19:03:52] 14:03 ET | in play: none | market filter ON (SPY 717.04 vs open 715.30 / VWAP 716.45) | trades today 0/2
+2026-11-24 [19:04:22] 14:04 ET | in play: none | market filter ON (SPY 717.04 vs open 715.30 / VWAP 716.45) | trades today 0/2
+2026-11-24 [19:04:53] 14:04 ET | in play: none | market filter ON (SPY 717.04 vs open 715.30 / VWAP 716.45) | trades today 0/2
+2026-11-24 [19:05:23] NEWS [ ] WMT: Symbotic Announces $7 Billion Expansion of Walmart Automation Agreement
+2026-11-24 [19:05:23] NEWS [ ] SNAP: Appeals Court Rules Snap Not Liable in 2022 Buffalo Mass Shooting Case
+2026-11-24 [19:05:23] 14:05 ET | in play: none | market filter ON (SPY 717.30 vs open 715.30 / VWAP 716.47) | trades today 0/2
+2026-11-24 [19:05:53] 14:05 ET | in play: none | market filter ON (SPY 717.30 vs open 715.30 / VWAP 716.47) | trades today 0/2
+2026-11-24 [19:06:23] 14:06 ET | in play: none | market filter ON (SPY 717.30 vs open 715.30 / VWAP 716.47) | trades today 0/2
+2026-11-24 [19:06:53] 14:06 ET | in play: none | market filter ON (SPY 717.30 vs open 715.30 / VWAP 716.47) | trades today 0/2
+2026-11-24 [19:07:24] 14:07 ET | in play: none | market filter ON (SPY 717.30 vs open 715.30 / VWAP 716.47) | trades today 0/2
+2026-11-24 [19:07:54] 14:07 ET | in play: none | market filter ON (SPY 717.30 vs open 715.30 / VWAP 716.47) | trades today 0/2
+2026-11-24 [19:08:24] 14:08 ET | in play: none | market filter ON (SPY 717.30 vs open 715.30 / VWAP 716.47) | trades today 0/2
+2026-11-24 [19:08:54] 14:08 ET | in play: none | market filter ON (SPY 717.30 vs open 715.30 / VWAP 716.47) | trades today 0/2
+2026-11-24 [19:09:24] 14:09 ET | in play: none | market filter ON (SPY 717.30 vs open 715.30 / VWAP 716.47) | trades today 0/2
+2026-11-24 [19:09:55] 14:09 ET | in play: none | market filter ON (SPY 717.30 vs open 715.30 / VWAP 716.47) | trades today 0/2
+2026-11-24 [19:10:25] 14:10 ET | in play: none | market filter ON (SPY 717.82 vs open 715.30 / VWAP 716.47) | trades today 0/2
+2026-11-24 [19:10:55] 14:10 ET | in play: none | market filter ON (SPY 717.82 vs open 715.30 / VWAP 716.47) | trades today 0/2
+2026-11-24 [19:11:25] 14:11 ET | in play: none | market filter ON (SPY 717.82 vs open 715.30 / VWAP 716.47) | trades today 0/2
+2026-11-24 [19:11:56] 14:11 ET | in play: none | market filter ON (SPY 717.82 vs open 715.30 / VWAP 716.47) | trades today 0/2
+2026-11-24 [19:12:26] 14:12 ET | in play: none | market filter ON (SPY 717.82 vs open 715.30 / VWAP 716.47) | trades today 0/2
+2026-11-24 [19:12:56] 14:12 ET | in play: none | market filter ON (SPY 717.82 vs open 715.30 / VWAP 716.47) | trades today 0/2
+2026-11-24 [19:13:26] 14:13 ET | in play: none | market filter ON (SPY 717.82 vs open 715.30 / VWAP 716.47) | trades today 0/2
+2026-11-24 [19:13:57] 14:13 ET | in play: none | market filter ON (SPY 717.82 vs open 715.30 / VWAP 716.47) | trades today 0/2
+2026-11-24 [19:14:27] 14:14 ET | in play: none | market filter ON (SPY 717.82 vs open 715.30 / VWAP 716.47) | trades today 0/2
+2026-11-24 [19:14:57] 14:14 ET | in play: none | market filter ON (SPY 717.82 vs open 715.30 / VWAP 716.47) | trades today 0/2
+2026-11-24 [19:15:27] 14:15 ET | in play: none | market filter ON (SPY 718.11 vs open 715.30 / VWAP 716.48) | trades today 0/2
+2026-11-24 [19:15:57] 14:15 ET | in play: none | market filter ON (SPY 718.11 vs open 715.30 / VWAP 716.48) | trades today 0/2
+2026-11-24 [19:16:28] 14:16 ET | in play: none | market filter ON (SPY 718.11 vs open 715.30 / VWAP 716.48) | trades today 0/2
+2026-11-24 [19:16:58] 14:16 ET | in play: none | market filter ON (SPY 718.11 vs open 715.30 / VWAP 716.48) | trades today 0/2
+2026-11-24 [19:17:28] 14:17 ET | in play: none | market filter ON (SPY 718.11 vs open 715.30 / VWAP 716.48) | trades today 0/2
+2026-11-24 [19:17:59] 14:17 ET | in play: none | market filter ON (SPY 718.11 vs open 715.30 / VWAP 716.48) | trades today 0/2
+2026-11-24 [19:18:29] 14:18 ET | in play: none | market filter ON (SPY 718.11 vs open 715.30 / VWAP 716.48) | trades today 0/2
+2026-11-24 [19:18:59] 14:18 ET | in play: none | market filter ON (SPY 718.11 vs open 715.30 / VWAP 716.48) | trades today 0/2
+2026-11-24 [19:19:29] 14:19 ET | in play: none | market filter ON (SPY 718.11 vs open 715.30 / VWAP 716.48) | trades today 0/2
+2026-11-24 [19:20:00] 14:19 ET | in play: none | market filter ON (SPY 718.11 vs open 715.30 / VWAP 716.48) | trades today 0/2
+2026-11-24 [19:20:30] 14:20 ET | in play: none | market filter ON (SPY 718.75 vs open 715.30 / VWAP 716.49) | trades today 0/2
+2026-11-24 [19:21:00] 14:21 ET | in play: none | market filter ON (SPY 718.75 vs open 715.30 / VWAP 716.49) | trades today 0/2
+2026-11-24 [19:21:30] 14:21 ET | in play: none | market filter ON (SPY 718.75 vs open 715.30 / VWAP 716.49) | trades today 0/2
+2026-11-24 [19:22:01] 14:22 ET | in play: none | market filter ON (SPY 718.75 vs open 715.30 / VWAP 716.49) | trades today 0/2
+2026-11-24 [19:22:31] 14:22 ET | in play: none | market filter ON (SPY 718.75 vs open 715.30 / VWAP 716.49) | trades today 0/2
+2026-11-24 [19:23:01] 14:23 ET | in play: none | market filter ON (SPY 718.75 vs open 715.30 / VWAP 716.49) | trades today 0/2
+2026-11-24 [19:23:31] 14:23 ET | in play: none | market filter ON (SPY 718.75 vs open 715.30 / VWAP 716.49) | trades today 0/2
+2026-11-24 [19:24:01] 14:24 ET | in play: none | market filter ON (SPY 718.75 vs open 715.30 / VWAP 716.49) | trades today 0/2
+2026-11-24 [19:24:32] 14:24 ET | in play: none | market filter ON (SPY 718.75 vs open 715.30 / VWAP 716.49) | trades today 0/2
+2026-11-24 [19:25:02] 14:25 ET | in play: none | market filter ON (SPY 718.60 vs open 715.30 / VWAP 716.51) | trades today 0/2
+2026-11-24 [19:25:32] 14:25 ET | in play: none | market filter ON (SPY 718.60 vs open 715.30 / VWAP 716.51) | trades today 0/2
+2026-11-24 [19:26:03] 14:26 ET | in play: none | market filter ON (SPY 718.60 vs open 715.30 / VWAP 716.51) | trades today 0/2
+2026-11-24 [19:26:33] 14:26 ET | in play: none | market filter ON (SPY 718.60 vs open 715.30 / VWAP 716.51) | trades today 0/2
+2026-11-24 [19:27:03] 14:27 ET | in play: none | market filter ON (SPY 718.60 vs open 715.30 / VWAP 716.51) | trades today 0/2
+2026-11-24 [19:27:33] 14:27 ET | in play: none | market filter ON (SPY 718.60 vs open 715.30 / VWAP 716.51) | trades today 0/2
+2026-11-24 [19:28:04] 14:28 ET | in play: none | market filter ON (SPY 718.60 vs open 715.30 / VWAP 716.51) | trades today 0/2
+2026-11-24 [19:28:34] 14:28 ET | in play: none | market filter ON (SPY 718.60 vs open 715.30 / VWAP 716.51) | trades today 0/2
+2026-11-24 [19:29:04] 14:29 ET | in play: none | market filter ON (SPY 718.60 vs open 715.30 / VWAP 716.51) | trades today 0/2
+2026-11-24 [19:29:34] 14:29 ET | in play: none | market filter ON (SPY 718.60 vs open 715.30 / VWAP 716.51) | trades today 0/2
+2026-11-24 [19:30:05] 14:30 ET | in play: none | market filter ON (SPY 718.57 vs open 715.30 / VWAP 716.53) | trades today 0/2
+2026-11-24 [19:30:35] 14:30 ET | in play: none | market filter ON (SPY 718.57 vs open 715.30 / VWAP 716.53) | trades today 0/2
+2026-11-24 [19:31:06] 14:31 ET | in play: none | market filter ON (SPY 718.57 vs open 715.30 / VWAP 716.53) | trades today 0/2
+2026-11-24 [19:31:36] 14:31 ET | in play: none | market filter ON (SPY 718.57 vs open 715.30 / VWAP 716.53) | trades today 0/2
+2026-11-24 [19:32:06] 14:32 ET | in play: none | market filter ON (SPY 718.57 vs open 715.30 / VWAP 716.53) | trades today 0/2
+2026-11-24 [19:32:36] 14:32 ET | in play: none | market filter ON (SPY 718.57 vs open 715.30 / VWAP 716.53) | trades today 0/2
+2026-11-24 [19:33:07] 14:33 ET | in play: none | market filter ON (SPY 718.57 vs open 715.30 / VWAP 716.53) | trades today 0/2
+2026-11-24 [19:33:37] 14:33 ET | in play: none | market filter ON (SPY 718.57 vs open 715.30 / VWAP 716.53) | trades today 0/2
+2026-11-24 [19:34:07] 14:34 ET | in play: none | market filter ON (SPY 718.57 vs open 715.30 / VWAP 716.53) | trades today 0/2
+2026-11-24 [19:34:37] 14:34 ET | in play: none | market filter ON (SPY 718.57 vs open 715.30 / VWAP 716.53) | trades today 0/2
+2026-11-24 [19:35:08] 14:35 ET | in play: none | market filter ON (SPY 717.82 vs open 715.30 / VWAP 716.55) | trades today 0/2
+2026-11-24 [19:35:38] 14:35 ET | in play: none | market filter ON (SPY 717.82 vs open 715.30 / VWAP 716.55) | trades today 0/2
+2026-11-24 [19:36:08] 14:36 ET | in play: none | market filter ON (SPY 717.82 vs open 715.30 / VWAP 716.55) | trades today 0/2
+2026-11-24 [19:36:38] 14:36 ET | in play: none | market filter ON (SPY 717.82 vs open 715.30 / VWAP 716.55) | trades today 0/2
+2026-11-24 [19:37:08] 14:37 ET | in play: none | market filter ON (SPY 717.82 vs open 715.30 / VWAP 716.55) | trades today 0/2
+2026-11-24 [19:37:39] 14:37 ET | in play: none | market filter ON (SPY 717.82 vs open 715.30 / VWAP 716.55) | trades today 0/2
+2026-11-24 [19:38:09] 14:38 ET | in play: none | market filter ON (SPY 717.82 vs open 715.30 / VWAP 716.55) | trades today 0/2
+2026-11-24 [19:38:39] 14:38 ET | in play: none | market filter ON (SPY 717.82 vs open 715.30 / VWAP 716.55) | trades today 0/2
+2026-11-24 [19:39:09] 14:39 ET | in play: none | market filter ON (SPY 717.82 vs open 715.30 / VWAP 716.55) | trades today 0/2
+2026-11-24 [19:39:40] 14:39 ET | in play: none | market filter ON (SPY 717.82 vs open 715.30 / VWAP 716.55) | trades today 0/2
+2026-11-24 [19:40:10] 14:40 ET | in play: none | market filter ON (SPY 717.27 vs open 715.30 / VWAP 716.56) | trades today 0/2
+2026-11-24 [19:40:40] 14:40 ET | in play: none | market filter ON (SPY 717.27 vs open 715.30 / VWAP 716.56) | trades today 0/2
+2026-11-24 [19:41:10] 14:41 ET | in play: none | market filter ON (SPY 717.27 vs open 715.30 / VWAP 716.56) | trades today 0/2
+2026-11-24 [19:41:41] 14:41 ET | in play: none | market filter ON (SPY 717.27 vs open 715.30 / VWAP 716.56) | trades today 0/2
+2026-11-24 [19:42:11] 14:42 ET | in play: none | market filter ON (SPY 717.27 vs open 715.30 / VWAP 716.56) | trades today 0/2
+2026-11-24 [19:42:41] 14:42 ET | in play: none | market filter ON (SPY 717.27 vs open 715.30 / VWAP 716.56) | trades today 0/2
+2026-11-24 [19:43:11] 14:43 ET | in play: none | market filter ON (SPY 717.27 vs open 715.30 / VWAP 716.56) | trades today 0/2
+2026-11-24 [19:43:41] 14:43 ET | in play: none | market filter ON (SPY 717.27 vs open 715.30 / VWAP 716.56) | trades today 0/2
+2026-11-24 [19:44:12] 14:44 ET | in play: none | market filter ON (SPY 717.27 vs open 715.30 / VWAP 716.56) | trades today 0/2
+2026-11-24 [19:44:42] 14:44 ET | in play: none | market filter ON (SPY 717.27 vs open 715.30 / VWAP 716.56) | trades today 0/2
+2026-11-24 [19:45:12] 14:45 ET | in play: none | market filter ON (SPY 717.78 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [19:45:42] 14:45 ET | in play: none | market filter ON (SPY 717.78 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [19:46:13] 14:46 ET | in play: none | market filter ON (SPY 717.78 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [19:46:43] 14:46 ET | in play: none | market filter ON (SPY 717.78 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [19:47:13] 14:47 ET | in play: none | market filter ON (SPY 717.78 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [19:47:43] 14:47 ET | in play: none | market filter ON (SPY 717.78 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [19:48:14] 14:48 ET | in play: none | market filter ON (SPY 717.78 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [19:48:44] 14:48 ET | in play: none | market filter ON (SPY 717.78 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [19:49:14] 14:49 ET | in play: none | market filter ON (SPY 717.78 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [19:49:44] 14:49 ET | in play: none | market filter ON (SPY 717.78 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [19:50:15] 14:50 ET | in play: none | market filter ON (SPY 717.17 vs open 715.30 / VWAP 716.58) | trades today 0/2
+2026-11-24 [19:50:45] 14:50 ET | in play: none | market filter ON (SPY 717.17 vs open 715.30 / VWAP 716.58) | trades today 0/2
+2026-11-24 [19:51:15] 14:51 ET | in play: none | market filter ON (SPY 717.17 vs open 715.30 / VWAP 716.58) | trades today 0/2
+2026-11-24 [19:51:45] 14:51 ET | in play: none | market filter ON (SPY 717.17 vs open 715.30 / VWAP 716.58) | trades today 0/2
+2026-11-24 [19:52:16] 14:52 ET | in play: none | market filter ON (SPY 717.17 vs open 715.30 / VWAP 716.58) | trades today 0/2
+2026-11-24 [19:52:46] 14:52 ET | in play: none | market filter ON (SPY 717.17 vs open 715.30 / VWAP 716.58) | trades today 0/2
+2026-11-24 [19:53:16] 14:53 ET | in play: none | market filter ON (SPY 717.17 vs open 715.30 / VWAP 716.58) | trades today 0/2
+2026-11-24 [19:53:46] 14:53 ET | in play: none | market filter ON (SPY 717.17 vs open 715.30 / VWAP 716.58) | trades today 0/2
+2026-11-24 [19:54:17] 14:54 ET | in play: none | market filter ON (SPY 717.17 vs open 715.30 / VWAP 716.58) | trades today 0/2
+2026-11-24 [19:54:47] 14:54 ET | in play: none | market filter ON (SPY 717.17 vs open 715.30 / VWAP 716.58) | trades today 0/2
+2026-11-24 [19:55:17] 14:55 ET | in play: none | market filter ON (SPY 716.64 vs open 715.30 / VWAP 716.58) | trades today 0/2
+2026-11-24 [19:55:47] 14:55 ET | in play: none | market filter ON (SPY 716.64 vs open 715.30 / VWAP 716.58) | trades today 0/2
+2026-11-24 [19:56:18] 14:56 ET | in play: none | market filter ON (SPY 716.64 vs open 715.30 / VWAP 716.58) | trades today 0/2
+2026-11-24 [19:56:48] 14:56 ET | in play: none | market filter ON (SPY 716.64 vs open 715.30 / VWAP 716.58) | trades today 0/2
+2026-11-24 [19:57:18] 14:57 ET | in play: none | market filter ON (SPY 716.64 vs open 715.30 / VWAP 716.58) | trades today 0/2
+2026-11-24 [19:57:48] 14:57 ET | in play: none | market filter ON (SPY 716.64 vs open 715.30 / VWAP 716.58) | trades today 0/2
+2026-11-24 [19:58:19] 14:58 ET | in play: none | market filter ON (SPY 716.64 vs open 715.30 / VWAP 716.58) | trades today 0/2
+2026-11-24 [19:58:49] 14:58 ET | in play: none | market filter ON (SPY 716.64 vs open 715.30 / VWAP 716.58) | trades today 0/2
+2026-11-24 [19:59:19] 14:59 ET | in play: none | market filter ON (SPY 716.64 vs open 715.30 / VWAP 716.58) | trades today 0/2
+2026-11-24 [19:59:49] 14:59 ET | in play: none | market filter ON (SPY 716.64 vs open 715.30 / VWAP 716.58) | trades today 0/2
+2026-11-24 [20:00:20] 15:00 ET | in play: none | market filter off (SPY 716.12 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [20:00:50] 15:00 ET | in play: none | market filter off (SPY 716.12 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [20:01:20] 15:01 ET | in play: none | market filter off (SPY 716.12 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [20:01:51] 15:01 ET | in play: none | market filter off (SPY 716.12 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [20:02:21] 15:02 ET | in play: none | market filter off (SPY 716.12 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [20:02:51] 15:02 ET | in play: none | market filter off (SPY 716.12 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [20:03:21] 15:03 ET | in play: none | market filter off (SPY 716.12 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [20:03:51] 15:03 ET | in play: none | market filter off (SPY 716.12 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [20:04:22] 15:04 ET | in play: none | market filter off (SPY 716.12 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [20:04:52] 15:04 ET | in play: none | market filter off (SPY 716.12 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [20:05:22] 15:05 ET | in play: none | market filter off (SPY 715.81 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [20:05:52] 15:05 ET | in play: none | market filter off (SPY 715.81 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [20:06:23] 15:06 ET | in play: none | market filter off (SPY 715.81 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [20:06:53] 15:06 ET | in play: none | market filter off (SPY 715.81 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [20:07:23] 15:07 ET | in play: none | market filter off (SPY 715.81 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [20:07:53] 15:07 ET | in play: none | market filter off (SPY 715.81 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [20:08:23] Reached the 340-minute run limit. Handing off to the next scheduled run.
