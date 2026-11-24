@@ -1487,3 +1487,154 @@
 2026-11-24 [20:07:23] 15:07 ET | in play: none | market filter off (SPY 715.81 vs open 715.30 / VWAP 716.57) | trades today 0/2
 2026-11-24 [20:07:53] 15:07 ET | in play: none | market filter off (SPY 715.81 vs open 715.30 / VWAP 716.57) | trades today 0/2
 2026-11-24 [20:08:23] Reached the 340-minute run limit. Handing off to the next scheduled run.
+2026-11-24 [20:08:32] Connected (strategy v2: stocks in play). Paper equity 100,123.40 | bot budget 10,000 | $50 risk per trade
+2026-11-24 [20:08:33] NEWS [+] AAPL: Apple to Host Special Event at SoHo Store Marking 20 Years of (RED) Partnership
+2026-11-24 [20:08:33] NEWS [ ] NFLX: German Voice Actors Protest Netflix Over AI Usage
+2026-11-24 [20:08:33] NEWS [+] ORCL: Oracle Commodity Holding Restores Royalty on Pulacayo-Paca Silver Project
+2026-11-24 [20:08:33] NEWS [ ] UBER: Uber Expands Platform to Include Train Ticket Sales in France
+2026-11-24 [20:08:33] NEWS [+] MSFT: Microsoft Secures 51MW Geothermal Energy Contract in New Zealand
+2026-11-24 [20:08:33] NEWS [ ] AVGO: BNP Paribas Adjusts Broadcom Price Target
+2026-11-24 [20:08:33] NEWS [ ] TSLA: Seaport Initiates Coverage of Tesla with Buy Rating
+2026-11-24 [20:08:33] NEWS [ ] COIN: Form3 Partners with Coinbase Infrastructure to Enable Stablecoin Payments
+2026-11-24 [20:08:33] NEWS [ ] AAPL: J.P. Morgan Maintains Buy Rating and $355 Price Target for Apple
+2026-11-24 [20:08:33] NEWS [ ] CRM: Salesforce Joins Industry Backing for Open Standard in AI Agent Context Sharing
+2026-11-24 [20:08:33] NEWS [ ] UBER: Uber, Lucid, and Nuro Begin Driverless Robotaxi Testing in San Francisco Bay Area
+2026-11-24 [20:08:33] NEWS [ ] META: Meta Abandons 2030 Net-Zero Emissions Goal
+2026-11-24 [20:08:33] NEWS [ ] AMD: BNP Paribas Adjusts Price Target for AMD
+2026-11-24 [20:08:33] NEWS [ ] AAPL: Apple Announces Fifth Season of 'Ted Lasso'
+2026-11-24 [20:08:33] NEWS [-] COIN: California Court Dismisses UST Class-Action Lawsuit Against Coinbase
+2026-11-24 [20:08:33] NEWS [ ] COIN: Goldman Sachs Adjusts Price Target on Coinbase Global
+2026-11-24 [20:08:33] NEWS [ ] AMD: Bernstein Initiates Coverage on AMD with Buy Rating
+2026-11-24 [20:08:33] NEWS [ ] TSLA: UBS Adjusts Price Target on Tesla to $430
+2026-11-24 [20:08:33] NEWS [ ] SHOP: Emersoft Partners with MVB to Bring Direct Publisher Ordering via Pubeasy to Independent Bookstores 
+2026-11-24 [20:08:33] NEWS [ ] AMZN: AWS CEO Matt Garman Advocates for Architectural Containment in AI Security
+2026-11-24 [20:08:33] NEWS [ ] META: Analysts Adjust Price Targets for Meta Platforms
+2026-11-24 [20:08:33] NEWS [+] META: Meta Launches Muse AI in the UK
+2026-11-24 [20:08:33] NEWS [ ] INTC: BNP Paribas Adjusts Price Target on Intel to $60 From $70
+2026-11-24 [20:08:33] NEWS [-] MU: BNP Paribas Downgrades Micron Technology to Neutral
+2026-11-24 [20:08:33] NEWS [ ] AMD: TrendForce Reports Growing Demand for AMD Helios AI Server Systems
+2026-11-24 [20:08:33] NEWS [ ] AMZN: Amazon Web Services Collaborates with Great Ormond Street Hospital on Agentic AI Programme
+2026-11-24 [20:08:33] NEWS [+] MSFT: Atos and Microsoft Extend Partnership for Digital Sovereignty
+2026-11-24 [20:08:33] NEWS [ ] PLTR: Palantir Technologies Inc. Receives Zero Score in 2026 CPA-Zicklin Index
+2026-11-24 [20:08:33] NEWS [ ] AAPL: Apple Plans Return of (PRODUCT)RED Lineup
+2026-11-24 [20:08:33] NEWS [+] UBER: Uber Pilots "Record My Ride" Feature in Select U.S. Cities
+2026-11-24 [20:08:33] NEWS [ ] AAPL: Apple TV Withdraws from FIFA World Cup Bidding
+2026-11-24 [20:08:33] NEWS [ ] INTC: Intel Announces Executive Participation in Upcoming Investor Conferences
+2026-11-24 [20:08:33] NEWS [-] AMZN: Jury Reaches Verdict in Amazon's Lawsuit Against Northstar Commercial Partners
+2026-11-24 [20:08:33] NEWS [+] AMZN: Amazon to Acquire AI Startup Decart
+2026-11-24 [20:08:33] NEWS [ ] WMT: Symbotic Announces $7 Billion Expansion of Walmart Automation Agreement
+2026-11-24 [20:08:33] NEWS [ ] SNAP: Appeals Court Rules Snap Not Liable in 2022 Buffalo Mass Shooting Case
+2026-11-24 [20:08:33] NEWS [ ] BAC: Bank of America Corporation Reports Decrease in Voting Interest in Workspace Group PLC
+2026-11-24 [20:08:33] NEWS [ ] HOOD: Robinhood Co-Leads $5 Million Seed Investment in Onchain Trading Platform Rialto
+2026-11-24 [20:08:33] NEWS [-] F: Ford Faces Class Action Lawsuit Over Maverick Backup Camera Defect
+2026-11-24 [20:08:33] NEWS [ ] XOM: ExxonMobil Guyana Oil Output Expected to Exceed 1 Million Barrels Per Day
+2026-11-24 [20:08:33] NEWS [ ] GM: General Motors Formally Opposes Proposed Union Pacific-Norfolk Southern Merger
+2026-11-24 [20:08:33] NEWS [ ] HOOD: Robinhood Launches Cboe KPI Binary Options for Earnings Trading
+2026-11-24 [20:08:33] NEWS [ ] RIVN: Seaport Initiates Rivian Automotive at Buy With $18 Price Target
+2026-11-24 [20:08:33] NEWS [ ] DIS: The Walt Disney Studios Partners with Kaleidescape
+2026-11-24 [20:08:33] NEWS [+] PYPL: PayPal Partners with Mukuru to Expand Digital Financial Services in Botswana
+2026-11-24 [20:08:33] NEWS [ ] LCID: Seaport Initiates Lucid at Sell With $1 Price Target
+2026-11-24 [20:08:33] NEWS [+] BA: Mizuho Securities Initiates Coverage on Boeing with Outperform Rating
+2026-11-24 [20:08:33] NEWS [ ] BA: Boeing Secures Order for 50 737-8 Aircraft from China Southern Airlines Unit
+2026-11-24 [20:08:33] NEWS [+] DIS: Disney Secures Bundesliga Highlight Rights in Sublicensing Deal with RTL
+2026-11-24 [20:08:33] NEWS [ ] JPM: JPMorgan Chase Increases Stake in Intertek Group PLC
+2026-11-24 [20:08:33] NEWS [ ] JPM: J.P. Morgan Asset Management Announces November 2026 ETF Distributions
+2026-11-24 [20:08:33] NEWS [ ] GM: General Motors in Talks with Pentagon to Support Military Drone Production
+2026-11-24 [20:08:33] NEWS [ ] HOOD: Goldman Sachs Adjusts Price Target on Robinhood Markets to $114 From $115
+2026-11-24 [20:08:33] NEWS [ ] BAC: Bank of America Releases 2027 Market Outlook on Potential Bull and Bear Surprises
+2026-11-24 [20:08:33] NEWS [+] WMT: Walmart Updates Advertising and Operational Policies for AI Shopping Agents
+2026-11-24 [20:08:33] NEWS [ ] JPM: JPMorgan Chase Completes First Legally Binding Digital Gold Transactions
+2026-11-24 [20:08:33] NEWS [ ] HOOD: Robinhood Included in Launch of OKXICE Tokenized Securities Venue
+2026-11-24 [20:08:33] NEWS [+] BA: Boeing Awarded $197.3 Million US Special Operations Aircraft Contract
+2026-11-24 [20:08:33] NEWS [ ] WMT: Walmart Insider Executes Share Sale
+2026-11-24 [20:08:33] NEWS [ ] JPM: J.P. Morgan Asset Management Announces Listing Transfer for JPMorgan Active Bond ETF
+2026-11-24 [20:08:33] NEWS [ ] PYPL: PayPal Implements New Terms for Agentic Commerce Payment Services
+2026-11-24 [20:08:33] NEWS [+] NKE: Nike and Michigan State Announce Eight-Year Partnership Extension
+2026-11-24 [20:08:33] NEWS [+] DIS: Disney and NFL Partner with IMAX for Super Bowl LXI Theatrical Broadcast
+2026-11-24 [20:08:33] NEWS [ ] WMT: Walmart Hosts Global E-commerce Hardlines Category Exchange
+2026-11-24 [20:08:36] Scanner: loaded 10-day opening volume for 40 stocks.
+2026-11-24 [20:08:37] Scanner: today's stocks in play: none (no stock hit 2.5x)
+2026-11-24 [20:08:37] 15:08 ET | in play: none | market filter off (SPY 715.81 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [20:09:07] 15:09 ET | in play: none | market filter off (SPY 715.81 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [20:09:38] 15:09 ET | in play: none | market filter off (SPY 715.81 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [20:10:09] 15:10 ET | in play: none | market filter off (SPY 715.85 vs open 715.30 / VWAP 716.56) | trades today 0/2
+2026-11-24 [20:10:39] 15:10 ET | in play: none | market filter off (SPY 715.85 vs open 715.30 / VWAP 716.56) | trades today 0/2
+2026-11-24 [20:11:10] 15:11 ET | in play: none | market filter off (SPY 715.85 vs open 715.30 / VWAP 716.56) | trades today 0/2
+2026-11-24 [20:11:40] 15:11 ET | in play: none | market filter off (SPY 715.85 vs open 715.30 / VWAP 716.56) | trades today 0/2
+2026-11-24 [20:12:11] 15:12 ET | in play: none | market filter off (SPY 715.85 vs open 715.30 / VWAP 716.56) | trades today 0/2
+2026-11-24 [20:12:41] 15:12 ET | in play: none | market filter off (SPY 715.85 vs open 715.30 / VWAP 716.56) | trades today 0/2
+2026-11-24 [20:13:12] 15:13 ET | in play: none | market filter off (SPY 715.85 vs open 715.30 / VWAP 716.56) | trades today 0/2
+2026-11-24 [20:13:42] 15:13 ET | in play: none | market filter off (SPY 715.85 vs open 715.30 / VWAP 716.56) | trades today 0/2
+2026-11-24 [20:14:13] 15:14 ET | in play: none | market filter off (SPY 715.85 vs open 715.30 / VWAP 716.56) | trades today 0/2
+2026-11-24 [20:14:43] 15:14 ET | in play: none | market filter off (SPY 715.85 vs open 715.30 / VWAP 716.56) | trades today 0/2
+2026-11-24 [20:15:14] 15:15 ET | in play: none | market filter ON (SPY 717.19 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [20:15:44] 15:15 ET | in play: none | market filter ON (SPY 717.19 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [20:16:15] 15:16 ET | in play: none | market filter ON (SPY 717.19 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [20:16:45] 15:16 ET | in play: none | market filter ON (SPY 717.19 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [20:17:16] 15:17 ET | in play: none | market filter ON (SPY 717.19 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [20:17:46] 15:17 ET | in play: none | market filter ON (SPY 717.19 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [20:18:17] 15:18 ET | in play: none | market filter ON (SPY 717.19 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [20:18:47] 15:18 ET | in play: none | market filter ON (SPY 717.19 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [20:19:18] 15:19 ET | in play: none | market filter ON (SPY 717.19 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [20:19:49] 15:19 ET | in play: none | market filter ON (SPY 717.19 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [20:20:19] 15:20 ET | in play: none | market filter off (SPY 716.50 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [20:20:50] 15:20 ET | in play: none | market filter off (SPY 716.50 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [20:21:20] 15:21 ET | in play: none | market filter off (SPY 716.50 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [20:21:52] 15:21 ET | in play: none | market filter off (SPY 716.50 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [20:22:22] 15:22 ET | in play: none | market filter off (SPY 716.50 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [20:22:53] 15:22 ET | in play: none | market filter off (SPY 716.50 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [20:23:23] 15:23 ET | in play: none | market filter off (SPY 716.50 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [20:23:54] 15:23 ET | in play: none | market filter off (SPY 716.50 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [20:24:24] 15:24 ET | in play: none | market filter off (SPY 716.50 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [20:24:55] 15:24 ET | in play: none | market filter off (SPY 716.50 vs open 715.30 / VWAP 716.57) | trades today 0/2
+2026-11-24 [20:25:25] 15:25 ET | in play: none | market filter off (SPY 716.24 vs open 715.30 / VWAP 716.56) | trades today 0/2
+2026-11-24 [20:25:56] 15:25 ET | in play: none | market filter off (SPY 716.24 vs open 715.30 / VWAP 716.56) | trades today 0/2
+2026-11-24 [20:26:27] 15:26 ET | in play: none | market filter off (SPY 716.24 vs open 715.30 / VWAP 716.56) | trades today 0/2
+2026-11-24 [20:26:57] 15:26 ET | in play: none | market filter off (SPY 716.24 vs open 715.30 / VWAP 716.56) | trades today 0/2
+2026-11-24 [20:27:28] 15:27 ET | in play: none | market filter off (SPY 716.24 vs open 715.30 / VWAP 716.56) | trades today 0/2
+2026-11-24 [20:27:58] 15:27 ET | in play: none | market filter off (SPY 716.24 vs open 715.30 / VWAP 716.56) | trades today 0/2
+2026-11-24 [20:28:29] 15:28 ET | in play: none | market filter off (SPY 716.24 vs open 715.30 / VWAP 716.56) | trades today 0/2
+2026-11-24 [20:29:00] 15:28 ET | in play: none | market filter off (SPY 716.24 vs open 715.30 / VWAP 716.56) | trades today 0/2
+2026-11-24 [20:29:31] 15:29 ET | in play: none | market filter off (SPY 716.24 vs open 715.30 / VWAP 716.56) | trades today 0/2
+2026-11-24 [20:30:02] 15:30 ET | in play: none | market filter off (SPY 715.97 vs open 715.30 / VWAP 716.56) | trades today 0/2
+2026-11-24 [20:30:32] 15:30 ET | in play: none | market filter off (SPY 715.97 vs open 715.30 / VWAP 716.56) | trades today 0/2
+2026-11-24 [20:31:03] 15:31 ET | in play: none | market filter off (SPY 715.97 vs open 715.30 / VWAP 716.56) | trades today 0/2
+2026-11-24 [20:31:33] 15:31 ET | in play: none | market filter off (SPY 715.97 vs open 715.30 / VWAP 716.56) | trades today 0/2
+2026-11-24 [20:32:04] 15:32 ET | in play: none | market filter off (SPY 715.97 vs open 715.30 / VWAP 716.56) | trades today 0/2
+2026-11-24 [20:32:34] 15:32 ET | in play: none | market filter off (SPY 715.97 vs open 715.30 / VWAP 716.56) | trades today 0/2
+2026-11-24 [20:33:05] 15:33 ET | in play: none | market filter off (SPY 715.97 vs open 715.30 / VWAP 716.56) | trades today 0/2
+2026-11-24 [20:33:35] 15:33 ET | in play: none | market filter off (SPY 715.97 vs open 715.30 / VWAP 716.56) | trades today 0/2
+2026-11-24 [20:34:06] 15:34 ET | in play: none | market filter off (SPY 715.97 vs open 715.30 / VWAP 716.56) | trades today 0/2
+2026-11-24 [20:34:36] 15:34 ET | in play: none | market filter off (SPY 715.97 vs open 715.30 / VWAP 716.56) | trades today 0/2
+2026-11-24 [20:35:07] 15:35 ET | in play: none | market filter off (SPY 716.03 vs open 715.30 / VWAP 716.55) | trades today 0/2
+2026-11-24 [20:35:37] 15:35 ET | in play: none | market filter off (SPY 716.03 vs open 715.30 / VWAP 716.55) | trades today 0/2
+2026-11-24 [20:36:08] 15:36 ET | in play: none | market filter off (SPY 716.03 vs open 715.30 / VWAP 716.55) | trades today 0/2
+2026-11-24 [20:36:38] 15:36 ET | in play: none | market filter off (SPY 716.03 vs open 715.30 / VWAP 716.55) | trades today 0/2
+2026-11-24 [20:37:09] 15:37 ET | in play: none | market filter off (SPY 716.03 vs open 715.30 / VWAP 716.55) | trades today 0/2
+2026-11-24 [20:37:40] 15:37 ET | in play: none | market filter off (SPY 716.03 vs open 715.30 / VWAP 716.55) | trades today 0/2
+2026-11-24 [20:38:10] 15:38 ET | in play: none | market filter off (SPY 716.03 vs open 715.30 / VWAP 716.55) | trades today 0/2
+2026-11-24 [20:38:41] 15:38 ET | in play: none | market filter off (SPY 716.03 vs open 715.30 / VWAP 716.55) | trades today 0/2
+2026-11-24 [20:39:11] 15:39 ET | in play: none | market filter off (SPY 716.03 vs open 715.30 / VWAP 716.55) | trades today 0/2
+2026-11-24 [20:39:42] 15:39 ET | in play: none | market filter off (SPY 716.03 vs open 715.30 / VWAP 716.55) | trades today 0/2
+2026-11-24 [20:40:12] 15:40 ET | in play: none | market filter off (SPY 716.37 vs open 715.30 / VWAP 716.54) | trades today 0/2
+2026-11-24 [20:40:43] 15:40 ET | in play: none | market filter off (SPY 716.37 vs open 715.30 / VWAP 716.54) | trades today 0/2
+2026-11-24 [20:41:13] 15:41 ET | in play: none | market filter off (SPY 716.37 vs open 715.30 / VWAP 716.54) | trades today 0/2
+2026-11-24 [20:41:44] 15:41 ET | in play: none | market filter off (SPY 716.37 vs open 715.30 / VWAP 716.54) | trades today 0/2
+2026-11-24 [20:42:14] 15:42 ET | in play: none | market filter off (SPY 716.37 vs open 715.30 / VWAP 716.54) | trades today 0/2
+2026-11-24 [20:42:45] 15:42 ET | in play: none | market filter off (SPY 716.37 vs open 715.30 / VWAP 716.54) | trades today 0/2
+2026-11-24 [20:43:15] 15:43 ET | in play: none | market filter off (SPY 716.37 vs open 715.30 / VWAP 716.54) | trades today 0/2
+2026-11-24 [20:43:46] 15:43 ET | in play: none | market filter off (SPY 716.37 vs open 715.30 / VWAP 716.54) | trades today 0/2
+2026-11-24 [20:44:16] 15:44 ET | in play: none | market filter off (SPY 716.37 vs open 715.30 / VWAP 716.54) | trades today 0/2
+2026-11-24 [20:44:47] 15:44 ET | in play: none | market filter off (SPY 716.37 vs open 715.30 / VWAP 716.54) | trades today 0/2
+2026-11-24 [20:45:18] 15:45 ET | in play: none | market filter ON (SPY 716.57 vs open 715.30 / VWAP 716.54) | trades today 0/2
+2026-11-24 [20:45:48] 15:45 ET | in play: none | market filter ON (SPY 716.57 vs open 715.30 / VWAP 716.54) | trades today 0/2
+2026-11-24 [20:46:19] 15:46 ET | in play: none | market filter ON (SPY 716.57 vs open 715.30 / VWAP 716.54) | trades today 0/2
+2026-11-24 [20:46:49] 15:46 ET | in play: none | market filter ON (SPY 716.57 vs open 715.30 / VWAP 716.54) | trades today 0/2
+2026-11-24 [20:47:20] 15:47 ET | in play: none | market filter ON (SPY 716.57 vs open 715.30 / VWAP 716.54) | trades today 0/2
+2026-11-24 [20:47:50] 15:47 ET | in play: none | market filter ON (SPY 716.57 vs open 715.30 / VWAP 716.54) | trades today 0/2
+2026-11-24 [20:48:21] 15:48 ET | in play: none | market filter ON (SPY 716.57 vs open 715.30 / VWAP 716.54) | trades today 0/2
+2026-11-24 [20:48:52] 15:48 ET | in play: none | market filter ON (SPY 716.57 vs open 715.30 / VWAP 716.54) | trades today 0/2
+2026-11-24 [20:49:22] 15:49 ET | in play: none | market filter ON (SPY 716.57 vs open 715.30 / VWAP 716.54) | trades today 0/2
+2026-11-24 [20:49:53] 15:49 ET | in play: none | market filter ON (SPY 716.57 vs open 715.30 / VWAP 716.54) | trades today 0/2
+2026-11-24 [21:00:27] Market closed. Next open: 2026-11-25 09:30 ET
+2026-11-24 [21:00:27] No more trading today. Shutting down until the next scheduled start.
