@@ -2350,3 +2350,137 @@
 2026-11-25 [20:07:34] 15:07 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 716.38 vs open 703.15 / VWAP 705.54) | trades today 2/2
 2026-11-25 [20:08:06] 15:08 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 716.38 vs open 703.15 / VWAP 705.54) | trades today 2/2
 2026-11-25 [20:08:36] Reached the 340-minute run limit. Handing off to the next scheduled run.
+2026-11-25 [20:08:49] Connected (strategy v2: stocks in play). Paper equity 100,203.57 | bot budget 10,000 | $50 risk per trade
+2026-11-25 [20:08:51] NEWS [ ] COIN: Coinbase Wallet Launches Direct Deposit Feature for USDC
+2026-11-25 [20:08:51] NEWS [ ] TSLA: J.P. Morgan Analyzes Potential Tesla-SpaceX Merger Impact on S&P 500 Eligibility
+2026-11-25 [20:08:51] NEWS [ ] MU: Tradr ETFs Announces Upcoming Launch of Leveraged ETF Featuring Micron Technology, Inc.
+2026-11-25 [20:08:51] NEWS [ ] AVGO: UBS Adjusts Broadcom Price Target
+2026-11-25 [20:08:51] NEWS [ ] AMZN: Duracell and Amazon Partner for 'Power Playland on the Pier' Holiday Event
+2026-11-25 [20:08:51] NEWS [ ] TSLA: General Motors Korea to Adopt Tesla's North American Charging Standard
+2026-11-25 [20:08:51] NEWS [ ] PLTR: Palantir Technologies Insiders Report Significant Stock Transactions
+2026-11-25 [20:08:51] NEWS [ ] META: Meta Deploys Autonomous Food Preparation System in London Office
+2026-11-25 [20:08:51] NEWS [ ] META: Meta and Amazon Conclude Discussions to Lift Muse Shopping Robot Blockade
+2026-11-25 [20:08:51] NEWS [ ] AMZN: Schneider Electric Integrates Industrial Intelligence Solutions with AWS
+2026-11-25 [20:08:51] NEWS [ ] MSFT: The AA Deploys Microsoft Dynamics 365 and Azure for Digital Workflow
+2026-11-25 [20:08:51] NEWS [+] ORCL: Oracle Commodity Holding Corp. Restores 2% Royalty on Pulacayo-Paca Silver Project
+2026-11-25 [20:08:51] NEWS [ ] NVDA: NVIDIA CEO Jensen Huang Reportedly Apologizes to Staff and Enters Therapy
+2026-11-25 [20:08:51] NEWS [+] TSLA: European Union Postpones Approval Discussion for Tesla's Self-Driving Technology
+2026-11-25 [20:08:51] NEWS [ ] AMZN: Amazon to Launch Auto Marketplace in the UK
+2026-11-25 [20:08:51] NEWS [ ] AMZN: AWS Representatives Participate in AI Infrastructure Roundtable in South Korea
+2026-11-25 [20:08:51] NEWS [ ] PLTR: Palantir Technologies Executives Report Insider Stock Sales
+2026-11-25 [20:08:51] NEWS [ ] AAPL: Apple Participates in Korea-US AI Infrastructure Roundtable
+2026-11-25 [20:08:51] NEWS [ ] META: Meta Releases 2026 Sustainability Report
+2026-11-25 [20:08:51] NEWS [ ] MSFT: Maverick Medical AI Integrates CodeAgent with Microsoft Dragon Copilot
+2026-11-25 [20:08:51] NEWS [ ] MSFT: Microsoft Declares 'Code Red' Following Historic Outage
+2026-11-25 [20:08:51] NEWS [ ] TSLA: RBC Capital and Seaport Initiate Coverage of Tesla
+2026-11-25 [20:08:51] NEWS [-] UBER: Class Action Lawsuit Filed Against Uber Regarding October 2026 Data Breach
+2026-11-25 [20:08:51] NEWS [ ] MU: Micron Discloses Increased Executive Security Expenses
+2026-11-25 [20:08:51] NEWS [ ] AMZN: Amazon Teamsters in Chicago Rally for Delivery Protection Act
+2026-11-25 [20:08:51] NEWS [+] NFLX: German Voice Actors Initiate Legal Action Against Netflix Over AI Training Clauses
+2026-11-25 [20:08:51] NEWS [ ] COST: Supreme Court of British Columbia Rules in Class Action Regarding Supplement Labeling
+2026-11-25 [20:08:51] NEWS [ ] DIS: Disney Channel in Germany Rebrands to Disney TV
+2026-11-25 [20:08:51] NEWS [ ] PYPL: Stable Launches StableEarn Prime PYUSD Vault on Morpho
+2026-11-25 [20:08:51] NEWS [ ] PYPL: PayerMax Integrates PayPal Wallet Payments
+2026-11-25 [20:08:51] NEWS [-] CVX: Chevron Faces Regulatory Probe Following Methane Emissions at Gorgon LNG Plant
+2026-11-25 [20:08:51] NEWS [ ] BAC: BacTech Environmental to Attend Ontario Critical Minerals Conference
+2026-11-25 [20:08:51] NEWS [ ] GM: GM Korea to Adopt Tesla's North American Charging Standard
+2026-11-25 [20:08:51] NEWS [ ] BA: Malaysia Aviation Group Selects GE Aerospace Engines for New Boeing 787 Dreamliners
+2026-11-25 [20:08:51] NEWS [ ] JPM: JPMorgan Chase Evaluates UK Investment Strategy Following Bank Tax Increase
+2026-11-25 [20:08:51] NEWS [ ] WMT: Walmart-Backed PhonePe Resumes IPO Process
+2026-11-25 [20:08:51] NEWS [ ] WMT: William O'Neil Initiates Coverage on Walmart with Buy Rating
+2026-11-25 [20:08:51] NEWS [ ] WMT: Flipkart CEO Kalyan Krishnamurthy to Step Down
+2026-11-25 [20:08:51] NEWS [ ] BA: Malaysia Aviation Group Orders 10 Boeing 787 Dreamliners
+2026-11-25 [20:08:51] NEWS [+] BA: Philippines Expresses Intent to Acquire Six Boeing CH-47 Chinook Helicopters
+2026-11-25 [20:08:51] NEWS [ ] BAC: Bank of America Marks 75th Anniversary in Switzerland
+2026-11-25 [20:08:51] NEWS [+] BA: Boeing Awarded $2.82 Billion Air Force Contract Modification
+2026-11-25 [20:08:51] NEWS [ ] LCID: Nuro, Lucid, and Uber Begin Driverless Testing on Public Roads in the San Francisco Bay Area
+2026-11-25 [20:08:51] NEWS [ ] GM: General Motors Ventures Leads Series B Financing for Peak Energy
+2026-11-25 [20:08:51] NEWS [ ] WMT: Walmart Launches 'Muse' AI Shopping Assistant
+2026-11-25 [20:08:51] NEWS [-] DIS: State Attorneys General Object to Character.AI Asset Sale to Disney
+2026-11-25 [20:09:03] Scanner: loaded 10-day opening volume for 40 stocks.
+2026-11-25 [20:09:03] Scanner: today's stocks in play: CVX 5.0x, BAC 3.8x, MARA 3.3x, GM 2.8x
+2026-11-25 [20:09:04] CVX: first breakout already happened earlier today, not chasing it.
+2026-11-25 [20:09:04] BAC: first breakout already happened earlier today, not chasing it.
+2026-11-25 [20:09:04] MARA: first breakout already happened earlier today, not chasing it.
+2026-11-25 [20:09:04] GM: first breakout already happened earlier today, not chasing it.
+2026-11-25 [20:09:04] 15:08 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 716.38 vs open 703.15 / VWAP 705.54) | trades today 2/2
+2026-11-25 [20:09:36] 15:09 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 716.38 vs open 703.15 / VWAP 705.54) | trades today 2/2
+2026-11-25 [20:10:08] 15:10 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 715.97 vs open 703.15 / VWAP 705.61) | trades today 2/2
+2026-11-25 [20:10:40] 15:10 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 715.97 vs open 703.15 / VWAP 705.61) | trades today 2/2
+2026-11-25 [20:11:13] 15:11 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 715.97 vs open 703.15 / VWAP 705.61) | trades today 2/2
+2026-11-25 [20:11:45] 15:11 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 715.97 vs open 703.15 / VWAP 705.61) | trades today 2/2
+2026-11-25 [20:12:17] 15:12 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 715.97 vs open 703.15 / VWAP 705.61) | trades today 2/2
+2026-11-25 [20:12:49] 15:12 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 715.97 vs open 703.15 / VWAP 705.61) | trades today 2/2
+2026-11-25 [20:13:21] 15:13 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 715.97 vs open 703.15 / VWAP 705.61) | trades today 2/2
+2026-11-25 [20:13:53] 15:13 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 715.97 vs open 703.15 / VWAP 705.61) | trades today 2/2
+2026-11-25 [20:14:25] 15:14 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 715.97 vs open 703.15 / VWAP 705.61) | trades today 2/2
+2026-11-25 [20:14:58] 15:14 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 715.97 vs open 703.15 / VWAP 705.61) | trades today 2/2
+2026-11-25 [20:15:30] 15:15 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 716.05 vs open 703.15 / VWAP 705.67) | trades today 2/2
+2026-11-25 [20:16:02] 15:16 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 716.05 vs open 703.15 / VWAP 705.67) | trades today 2/2
+2026-11-25 [20:16:34] 15:16 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 716.05 vs open 703.15 / VWAP 705.67) | trades today 2/2
+2026-11-25 [20:17:06] 15:17 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 716.05 vs open 703.15 / VWAP 705.67) | trades today 2/2
+2026-11-25 [20:17:39] 15:17 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 716.05 vs open 703.15 / VWAP 705.67) | trades today 2/2
+2026-11-25 [20:18:11] 15:18 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 716.05 vs open 703.15 / VWAP 705.67) | trades today 2/2
+2026-11-25 [20:18:43] 15:18 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 716.05 vs open 703.15 / VWAP 705.67) | trades today 2/2
+2026-11-25 [20:19:15] 15:19 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 716.05 vs open 703.15 / VWAP 705.67) | trades today 2/2
+2026-11-25 [20:19:47] 15:19 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 716.05 vs open 703.15 / VWAP 705.67) | trades today 2/2
+2026-11-25 [20:20:19] 15:20 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 715.95 vs open 703.15 / VWAP 705.74) | trades today 2/2
+2026-11-25 [20:20:52] 15:20 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 715.95 vs open 703.15 / VWAP 705.74) | trades today 2/2
+2026-11-25 [20:21:24] 15:21 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 715.95 vs open 703.15 / VWAP 705.74) | trades today 2/2
+2026-11-25 [20:21:56] 15:21 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 715.95 vs open 703.15 / VWAP 705.74) | trades today 2/2
+2026-11-25 [20:22:29] 15:22 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 715.95 vs open 703.15 / VWAP 705.74) | trades today 2/2
+2026-11-25 [20:23:01] 15:22 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 715.95 vs open 703.15 / VWAP 705.74) | trades today 2/2
+2026-11-25 [20:23:33] 15:23 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 715.95 vs open 703.15 / VWAP 705.74) | trades today 2/2
+2026-11-25 [20:24:05] 15:24 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 715.95 vs open 703.15 / VWAP 705.74) | trades today 2/2
+2026-11-25 [20:24:37] 15:24 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 715.95 vs open 703.15 / VWAP 705.74) | trades today 2/2
+2026-11-25 [20:25:10] 15:25 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 716.13 vs open 703.15 / VWAP 705.79) | trades today 2/2
+2026-11-25 [20:25:42] 15:25 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 716.13 vs open 703.15 / VWAP 705.79) | trades today 2/2
+2026-11-25 [20:26:14] 15:26 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 716.13 vs open 703.15 / VWAP 705.79) | trades today 2/2
+2026-11-25 [20:26:46] 15:26 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 716.13 vs open 703.15 / VWAP 705.79) | trades today 2/2
+2026-11-25 [20:27:18] 15:27 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 716.13 vs open 703.15 / VWAP 705.79) | trades today 2/2
+2026-11-25 [20:27:51] 15:27 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 716.13 vs open 703.15 / VWAP 705.79) | trades today 2/2
+2026-11-25 [20:28:23] 15:28 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 716.13 vs open 703.15 / VWAP 705.79) | trades today 2/2
+2026-11-25 [20:28:55] 15:28 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 716.13 vs open 703.15 / VWAP 705.79) | trades today 2/2
+2026-11-25 [20:29:27] 15:29 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 716.13 vs open 703.15 / VWAP 705.79) | trades today 2/2
+2026-11-25 [20:29:59] 15:29 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 716.13 vs open 703.15 / VWAP 705.79) | trades today 2/2
+2026-11-25 [20:30:32] 15:30 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 715.52 vs open 703.15 / VWAP 705.89) | trades today 2/2
+2026-11-25 [20:31:04] 15:31 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 715.52 vs open 703.15 / VWAP 705.89) | trades today 2/2
+2026-11-25 [20:31:36] 15:31 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 715.52 vs open 703.15 / VWAP 705.89) | trades today 2/2
+2026-11-25 [20:32:08] 15:32 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 715.52 vs open 703.15 / VWAP 705.89) | trades today 2/2
+2026-11-25 [20:32:41] 15:32 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 715.52 vs open 703.15 / VWAP 705.89) | trades today 2/2
+2026-11-25 [20:33:13] 15:33 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 715.52 vs open 703.15 / VWAP 705.89) | trades today 2/2
+2026-11-25 [20:33:45] 15:33 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 715.52 vs open 703.15 / VWAP 705.89) | trades today 2/2
+2026-11-25 [20:34:17] 15:34 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 715.52 vs open 703.15 / VWAP 705.89) | trades today 2/2
+2026-11-25 [20:34:50] 15:34 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 715.52 vs open 703.15 / VWAP 705.89) | trades today 2/2
+2026-11-25 [20:35:22] 15:35 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 714.70 vs open 703.15 / VWAP 706.06) | trades today 2/2
+2026-11-25 [20:35:54] 15:35 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 714.70 vs open 703.15 / VWAP 706.06) | trades today 2/2
+2026-11-25 [20:36:26] 15:36 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 714.70 vs open 703.15 / VWAP 706.06) | trades today 2/2
+2026-11-25 [20:36:59] 15:36 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 714.70 vs open 703.15 / VWAP 706.06) | trades today 2/2
+2026-11-25 [20:37:31] 15:37 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 714.70 vs open 703.15 / VWAP 706.06) | trades today 2/2
+2026-11-25 [20:38:03] 15:38 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 714.70 vs open 703.15 / VWAP 706.06) | trades today 2/2
+2026-11-25 [20:38:35] 15:38 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 714.70 vs open 703.15 / VWAP 706.06) | trades today 2/2
+2026-11-25 [20:39:08] 15:39 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 714.70 vs open 703.15 / VWAP 706.06) | trades today 2/2
+2026-11-25 [20:39:40] 15:39 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 714.70 vs open 703.15 / VWAP 706.06) | trades today 2/2
+2026-11-25 [20:40:12] 15:40 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 714.05 vs open 703.15 / VWAP 706.16) | trades today 2/2
+2026-11-25 [20:40:44] 15:40 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 714.05 vs open 703.15 / VWAP 706.16) | trades today 2/2
+2026-11-25 [20:41:16] 15:41 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 714.05 vs open 703.15 / VWAP 706.16) | trades today 2/2
+2026-11-25 [20:41:49] 15:41 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 714.05 vs open 703.15 / VWAP 706.16) | trades today 2/2
+2026-11-25 [20:42:21] 15:42 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 714.05 vs open 703.15 / VWAP 706.16) | trades today 2/2
+2026-11-25 [20:42:53] 15:42 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 714.05 vs open 703.15 / VWAP 706.16) | trades today 2/2
+2026-11-25 [20:43:25] 15:43 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 714.05 vs open 703.15 / VWAP 706.16) | trades today 2/2
+2026-11-25 [20:43:57] 15:43 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 714.05 vs open 703.15 / VWAP 706.16) | trades today 2/2
+2026-11-25 [20:44:29] 15:44 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 714.05 vs open 703.15 / VWAP 706.16) | trades today 2/2
+2026-11-25 [20:45:02] 15:45 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 715.13 vs open 703.15 / VWAP 706.33) | trades today 2/2
+2026-11-25 [20:45:34] 15:45 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 715.13 vs open 703.15 / VWAP 706.33) | trades today 2/2
+2026-11-25 [20:46:06] 15:46 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 715.13 vs open 703.15 / VWAP 706.33) | trades today 2/2
+2026-11-25 [20:46:39] 15:46 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 715.13 vs open 703.15 / VWAP 706.33) | trades today 2/2
+2026-11-25 [20:47:11] 15:47 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 715.13 vs open 703.15 / VWAP 706.33) | trades today 2/2
+2026-11-25 [20:47:43] 15:47 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 715.13 vs open 703.15 / VWAP 706.33) | trades today 2/2
+2026-11-25 [20:48:15] 15:48 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 715.13 vs open 703.15 / VWAP 706.33) | trades today 2/2
+2026-11-25 [20:48:47] 15:48 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 715.13 vs open 703.15 / VWAP 706.33) | trades today 2/2
+2026-11-25 [20:49:20] 15:49 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 715.13 vs open 703.15 / VWAP 706.33) | trades today 2/2
+2026-11-25 [20:49:52] 15:49 ET | in play: CVX, BAC, MARA, GM | market filter ON (SPY 715.13 vs open 703.15 / VWAP 706.33) | trades today 2/2
+2026-11-25 [20:50:22] Risk manager: closing all positions before the bell.
+2026-11-25 [20:50:54] Risk manager: closing all positions before the bell.
+2026-11-25 [21:00:11] Market closed. Next open: 2026-11-27 09:30 ET
+2026-11-25 [21:00:11] No more trading today. Shutting down until the next scheduled start.
