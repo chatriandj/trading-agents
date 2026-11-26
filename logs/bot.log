@@ -2484,3 +2484,6 @@
 2026-11-25 [20:50:54] Risk manager: closing all positions before the bell.
 2026-11-25 [21:00:11] Market closed. Next open: 2026-11-27 09:30 ET
 2026-11-25 [21:00:11] No more trading today. Shutting down until the next scheduled start.
+2026-11-26 [14:26:27] Connected (strategy v2: stocks in play). Paper equity 100,200.17 | bot budget 10,000 | $50 risk per trade
+2026-11-26 [14:26:27] Market closed. Next open: 2026-11-27 09:30 ET
+2026-11-26 [14:26:27] No more trading today. Shutting down until the next scheduled start.
